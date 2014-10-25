@@ -22,8 +22,6 @@ for candidacy in candidacies:
     if district_ids[0].isdigit():
         districts[int(district_ids[0])].append(candidacy)
 
-from utils import get_names
-
 def calc_attend_grade(data):
     rate = data['attend']/float(len(data['attendance']))
     if 0.95 < rate:
