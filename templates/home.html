@@ -1,28 +1,28 @@
 <!DOCTYPE HTML>
 <html>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <head>
-        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/earlyaccess/hanna.css">
-
-        <link rel="stylesheet" type="text/css" href="/static/css/person.css" />
-        <link rel="stylesheet" type="text/css" href="/static/css/home.css" />
-    </head>
-    <body>
-        <div id="wrapper">
-            <div id="content-left">
-                <div id="home">
-                <center>
-                    <h1 class="hanna">국회 생활 통지표</h3>
-                    <p class="gray">내가 뽑은 우리 국회의원,<br>국회에서 잘하고 있을까?</p>
-                    <select class="select">
-                        {% for id, name in id_names %}
-                        <option name="member_num" value="{{ id }}">{{ name }}</option>
-                        {% endfor %}
-                    </select>
-                    <img id="logo" src="{{ url_for('static', filename='img/good.jpg') }}">
-                </center>
-                </div>
-            </div>
-        </div>
-    </body>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/earlyaccess/hanna.css">
+  
+  <link rel="stylesheet" type="text/css" href="/static/css/person.css" />
+  <link rel="stylesheet" type="text/css" href="/static/css/home.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content-left">
+    <div id="home">
+    <center>
+      <h1 class="hanna">국회 생활 통지표</h3>
+      <p class="gray">내가 뽑은 우리 국회의원,<br>국회에서 잘하고 있을까?</p>
+      <select class="select">
+        {% for id, name in id_names %}
+        <option name="member_num" value="{{ id }}">{{ name }}</option>
+        {% endfor %}
+      </select>
+      <img id="logo" src="{{ url_for('static', filename='img/good.jpg') }}">
+    </center>
+    </div>
+  </div>
+</div>
+</body>
 </html>
