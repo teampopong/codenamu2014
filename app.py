@@ -31,11 +31,11 @@ def calc_attend_grade(data):
 def home():
     return render_template('home.html', id_names=get_names())
 
-@app.route("/<member_num>")
-def member(member_num):
+@app.route("/<member_id>")
+def member(member_id):
 	f = open('members.json', 'r')
 	datas = json.load(f)
-	data = datas[int(member_num)]
+	data = datas[member_id]
 	data['yea'] = len([v for v in data['votes'] if v['option'] == 'yea'])
 	data['nay'] = len([v for v in data['votes'] if v['option'] == 'nay'])
 	data['forfeit'] = len([v for v in data['votes'] if v['option'] == 'forfeit'])
