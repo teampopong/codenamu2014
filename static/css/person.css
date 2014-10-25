@@ -21,6 +21,12 @@ html, body{
     padding: 16px 0;
     background: #445468 url('./bg.png') repeat 0 0;
 }
+#attendance-score {
+    color: #aaa;
+    display: inline-block;
+    font-size: 75%;
+    margin-left: 5px;
+}
 #wrapper{
     width: 500px;
     margin: 0 auto;
@@ -100,7 +106,6 @@ html, body{
     font-weight: 400;
     padding-left: 22px;
     margin-left: 12px;
-    float: left;
 }
 .position>.sub-title{
     background: url('./icon_position.png') no-repeat 0 50%;
@@ -307,4 +312,7 @@ html, body{
     font-weight: 700;
     border-radius: 0 0 4px 4px;
     border-top: 1px solid #1eb0ee;
+}
+.inline{
+    display: inline-block;
 }
