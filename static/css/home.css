@@ -2,6 +2,10 @@ h1 {
     padding: 20px;
 }
 
+#home {
+    height: 609px;
+    padding: 30px;
+}
 #logo {
     width: 100%;
 }
@@ -11,10 +15,6 @@ h1 {
 }
 .hanna {
     font-family: 'Hanna', serif;
-}
-.home {
-    height: 609px;
-    padding: 30px;
 }
 .gray {
     color: #333;
