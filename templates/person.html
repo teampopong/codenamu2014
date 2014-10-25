@@ -1,80 +1,85 @@
 <!DOCTYPE HTML>
 <html>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <head>
-        <link rel="stylesheet" type="text/css" href="/static/css/person.css">
-    </head>
-    <body>
-        <div id="wrapper">
-            <div id="content-left">
-                <div class="profile">
-					<img class="profile-image" src="{{data.image}}">
-					<h1 class="profile-name">{{data.name}}</h1>
-                    <h3 class="profile-birthday"></h3>
-                    <button class="profile-more">더보기</button>
-                </div>
-                <div class="position">
-                    <h5 class="sub-title">기반 위치</h5>
-					<span class="sub-content"></span>
-                </div>
-                <div class="attendance">
-                    <h5 class="sub-title">출석 현황</h5>
-                    <span class="sub-content">
-						<ul class="attendance-list">
-							{% for item in data.attendance %}
-							<li class="attendance-item {% if item %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%"></li>
-							{% endfor %}
-                    </span>
-                </div>
-                <div class="vote">
-                    <h5 class="sub-title">투표 현황</h5>
-                    <span class="sub-content">
-                        <ul class="vote-list">
-                            <li class="vote-item vote-agree">
-								<h5>{{data['yea']}}</h5>
-                                <span>찬성</span>
-                            </li>
-                            <li class="vote-item vote-disagree">
-                                <h5>{{data['nay']}}</h5>
-                                <span>반대</span>
-                            </li>
-                            <li class="vote-item vote-forfeit">
-                                <h5>{{data['forfeit']}}</h5>
-                                <span>무효</span>
-                            </li>
-                        </ul>
-                    </span>
-                </div>
-                <div class="idea">
-                    <h5 class="sub-title">공약</h5>
-                    <span class="sub-content">
-                        <ul class="idea-list">
-							{% for pledge in data['pledges'] %}
-							<li class="idea-item">
-								<h5>{{pledge}}</h5>
-                                <span>70%</span>
-                            </li>
-							{% endfor %}
-                        </ul>
-                    </span>
-                </div>
-            </div>
-            <div id="content-right">
-                <h1 class="content-right-title">성적 요약
-                    <span>(이 의원 / 의원 평균)</span>
-                </h1>
-                <div class="score">
-                    <div class="score-attendance">
-                        <h2 class="score-attendance-title">출석률 점수</h2>
-						<span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
-                    </div>
-                    <div class="score-vote">
-                        <h2 class="score-vote-title">투표율 점수</h2>
-						<span class="score-vote-content">{{data.votes | length}} / {{data.votes | length}}</span>
-                    </div>
-                </div>
-                <h1 class="content-right-final">A++</h1>
-            </div>
-        </div>
-    </body>
-</html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+<link rel="stylesheet" type="text/css" href="/static/css/person.css">
+</head>
+<body>
+<div id="wrapper">
+	<div id="content-left">
+		<div class="profile">
+			<img class="profile-image" src="{{data.image}}">
+			<h1 class="profile-name">{{data.name}}</h1>
+			<h3 class="profile-birthday"></h3>
+
+			<div id="send-to-twitter">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en"></a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+			<button class="profile-more">더보기</button>
+		</div>
+		<div class="position">
+			<h5 class="sub-title">기반 위치</h5>
+			<span class="sub-content"></span>
+		</div>
+		<div class="attendance">
+			<h5 class="sub-title">출석 현황</h5>
+			<span class="sub-content">
+				<ul class="attendance-list">
+					{% for item in data.attendance %}
+					<li class="attendance-item {% if item %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%"></li>
+					{% endfor %}
+				</span>
+			</div>
+			<div class="vote">
+				<h5 class="sub-title">투표 현황</h5>
+				<span class="sub-content">
+					<ul class="vote-list">
+						<li class="vote-item vote-agree">
+						<h5>{{data['yea']}}</h5>
+						<span>찬성</span>
+						</li>
+						<li class="vote-item vote-disagree">
+						<h5>{{data['nay']}}</h5>
+						<span>반대</span>
+						</li>
+						<li class="vote-item vote-forfeit">
+						<h5>{{data['forfeit']}}</h5>
+						<span>무효</span>
+						</li>
+					</ul>
+				</span>
+			</div>
+			<div class="idea">
+				<h5 class="sub-title">공약</h5>
+				<span class="sub-content">
+					<ul class="idea-list">
+						{% for pledge in data['pledges'] %}
+						<li class="idea-item">
+						<h5>{{pledge}}</h5>
+						<span>70%</span>
+						</li>
+						{% endfor %}
+					</ul>
+				</span>
+			</div>
+		</div>
+		<div id="content-right">
+			<h1 class="content-right-title">성적 요약
+				<span>(이 의원 / 의원 평균)</span>
+			</h1>
+			<div class="score">
+				<div class="score-attendance">
+					<h2 class="score-attendance-title">출석률 점수</h2>
+					<span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
+				</div>
+				<div class="score-vote">
+					<h2 class="score-vote-title">투표율 점수</h2>
+					<span class="score-vote-content">{{data.votes | length}} / {{data.votes | length}}</span>
+				</div>
+			</div>
+			<h1 class="content-right-final">A++</h1>
+		</div>
+	</div>
+	</body>
+	</html>
