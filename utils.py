@@ -4,6 +4,6 @@
 import json
 
 def get_names():
-    with open('19th members.json', 'r') as f:
+    with open('members.json', 'r') as f:
         data = json.load(f)
     return [(i, d.get('name')) for i, d in enumerate(data)]

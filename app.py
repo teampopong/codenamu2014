@@ -9,7 +9,7 @@ import json
 
 app = Flask(__name__)
 
-from home import get_names
+from utils import get_names
 
 @app.route("/")
 def home():
@@ -17,7 +17,7 @@ def home():
 
 @app.route("/<member_num>")
 def member(member_num):
-	f = open('19th members.json', 'r')
+	f = open('members.json', 'r')
 	datas = json.load(f)
 	data = datas[int(member_num)]
 	data['yea'] = len([vote for vote in data['votes'] if vote['option'] == 'yea'])
