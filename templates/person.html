@@ -10,9 +10,13 @@
       <div class="profile">
         <img class="profile-image" src="{{data.image}}">
         <h1 class="profile-name">{{data.name}}</h1>
-        <h3 class="profile-birthday"></h3>
-        <button class="profile-more">더보기</button>
-      </div>
+		<h3 class="profile-birthday"></h3>
+		<div id="send-to-twitter">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en"></a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+		<button class="profile-more">더보기</button>
+	</div>
       <div class="position">
         <h5 class="sub-title">기반 위치</h5>
         <span class="sub-content"></span>
