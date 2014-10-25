@@ -11,6 +11,17 @@
                 {% with width = 300 %}
                 {% include "korea.svg" with context %}
                 {% endwith %}
+                <script>
+(function (global) {
+var regions = document.getElementsByClassName('region');
+for (var i = 0, len = regions.length; i < len; i++) {
+    var region = regions[i];
+    region.onclick = function () {
+        location.href = '/map/' + region.attributes['data-region_id'].value;
+    };
+}
+} (window));
+                </script>
             </div>
             <div id="content-right">
             </div>

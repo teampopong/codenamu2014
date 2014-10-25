@@ -1,0 +1,5507 @@
+[
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19581139",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubcf4\ub839\uc2dc,\uc11c\ucc9c\uad70}",
+    "person_id": "19421166",
+    "district_ids": "{34,34030,34340}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub300\ub355\uad6c}",
+    "person_id": "19551154",
+    "district_ids": "{25,25050}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "19611102",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "1955214",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "1950133",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "19521113",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "1968120",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "19611138",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "1951151",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "1971119",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "19621122",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "1971149",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "19541129",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\ub355\uc9c4\uad6c}",
+    "person_id": "1939138",
+    "district_ids": "{35,35010,35012}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uad11\uc591\uc2dc,\uad6c\ub840\uad70}",
+    "person_id": "1944185",
+    "district_ids": "{36,36060,36330}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19421138",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "19431122",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc591\uad70,\uc601\ub355\uad70,\ubd09\ud654\uad70,\uc6b8\uc9c4\uad70}",
+    "person_id": "1939153",
+    "district_ids": "{37,37340,37350,37410,37420}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uac11}",
+    "person_id": "19391163",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc911\uc6d0\uad6c}",
+    "person_id": "19421145",
+    "district_ids": "{31,31020,31022}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "19461111",
+    "district_ids": "{25,25020}"
+  },
+  {
+    "district": "{\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc}",
+    "person_id": "19381168",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc758\ub839\uad70,\ud568\uc548\uad70,\ud569\ucc9c\uad70}",
+    "person_id": "195211",
+    "district_ids": "{38,38310,38320,38400}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "194125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uac11}",
+    "person_id": "19461122",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19401130",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uac11}",
+    "person_id": "19581104",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc}",
+    "person_id": "19521128",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19381105",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "1951154",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uc744}",
+    "person_id": "1957199",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub0a8\uad6c}",
+    "person_id": "19541112",
+    "district_ids": "{24,24030}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub17c\uc0b0\uc2dc,\uacc4\ub8e1\uc2dc,\uae08\uc0b0\uad70}",
+    "person_id": "19481130",
+    "district_ids": "{34,34060,34070,34310}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub3d9\uc548\uad6c,\uac11}",
+    "person_id": "19511101",
+    "district_ids": "{31,31040,31042,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc624\uc815\uad6c}",
+    "person_id": "1951184",
+    "district_ids": "{31,31050,31053}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\uc0c1\ub85d\uad6c,\uc744}",
+    "person_id": "19491113",
+    "district_ids": "{31,31090,31091,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ud0dc\ubc31\uc2dc,\uc601\uc6d4\uad70,\ud3c9\ucc3d\uad70,\uc815\uc120\uad70}",
+    "person_id": "1946162",
+    "district_ids": "{32,32050,32330,32340,32350}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ud64d\ucc9c\uad70,\ud6a1\uc131\uad70}",
+    "person_id": "195517",
+    "district_ids": "{32,32310,32320}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc720\uc131\uad6c}",
+    "person_id": "19521126",
+    "district_ids": "{25,25040}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ud64d\uc131\uad70,\uc608\uc0b0\uad70}",
+    "person_id": "194719",
+    "district_ids": "{34,34360,34370}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19471127",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uc744}",
+    "person_id": "1956192",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ubb34\uc548\uad70,\uc2e0\uc548\uad70}",
+    "person_id": "19391183",
+    "district_ids": "{36,36420,36480}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\uc791\uad6c,\uc744}",
+    "person_id": "1951177",
+    "district_ids": "{11,11200,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1969213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "19461121",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ubd81\uad6c,\uc744}",
+    "person_id": "19541102",
+    "district_ids": "{11,11080,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uc744}",
+    "person_id": "1945194",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uc744}",
+    "person_id": "19521115",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1945165",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uac11}",
+    "person_id": "19531101",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uac11}",
+    "person_id": "1958173",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uac11}",
+    "person_id": "1957172",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966173",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uac11}",
+    "person_id": "19421143",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc218\uc815\uad6c}",
+    "person_id": "1955178",
+    "district_ids": "{31,31020,31021}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc815\ubd80\uc2dc,\uac11}",
+    "person_id": "1945113",
+    "district_ids": "{31,31030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc774\ucc9c\uc2dc}",
+    "person_id": "19551106",
+    "district_ids": "{31,31210}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\uc0c1\ub2f9\uad6c}",
+    "person_id": "19531117",
+    "district_ids": "{33,33010,33011}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uc81c\ucc9c\uc2dc,\ub2e8\uc591\uad70}",
+    "person_id": "19421165",
+    "district_ids": "{33,33030,33380}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uace0\ud765\uad70,\ubcf4\uc131\uad70}",
+    "person_id": "1954156",
+    "district_ids": "{36,36350,36360}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1968147",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19471126",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491127",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "1949172",
+    "district_ids": "{26,26010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uc744}",
+    "person_id": "19491121",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\ubcd1}",
+    "person_id": "194526",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uac11}",
+    "person_id": "1962134",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uc744}",
+    "person_id": "1958211",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uac11}",
+    "person_id": "1958151",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uac11}",
+    "person_id": "1965179",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3c4\ubd09\uad6c,\uc744}",
+    "person_id": "19481137",
+    "district_ids": "{11,11100,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ub300\ubb38\uad6c,\uac11}",
+    "person_id": "1958171",
+    "district_ids": "{11,11130,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "1952173",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ud64d\uc131\uad70,\uc608\uc0b0\uad70}",
+    "person_id": "19471120",
+    "district_ids": "{34,34360,34370}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1953218",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "1954185",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub3d9\uad6c,\uac11}",
+    "person_id": "19421162",
+    "district_ids": "{11,11250,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub3d9\uad6c,\uc744}",
+    "person_id": "19461107",
+    "district_ids": "{11,11250,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c}",
+    "person_id": "19481123",
+    "district_ids": "{21,21010,21030}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "1961142",
+    "district_ids": "{21,21020}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\ub798\uad6c}",
+    "person_id": "19611103",
+    "district_ids": "{21,21060}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\ud558\uad6c,\uc744}",
+    "person_id": "1968139",
+    "district_ids": "{21,21100,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c}",
+    "person_id": "1961144",
+    "district_ids": "{21,21010,21030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uc744}",
+    "person_id": "1956170",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "1961166",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uc744}",
+    "person_id": "1959157",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uac11}",
+    "person_id": "19441129",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uad11\uc0b0\uad6c,\uac11}",
+    "person_id": "19551151",
+    "district_ids": "{24,24050,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "19561112",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uc744}",
+    "person_id": "1955199",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc815\ubd80\uc2dc,\uc744}",
+    "person_id": "19551153",
+    "district_ids": "{31,31030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub3d9\uc548\uad6c,\uc744}",
+    "person_id": "19581117",
+    "district_ids": "{31,31040,31042,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ubaa9\ud3ec\uc2dc}",
+    "person_id": "19421168",
+    "district_ids": "{36,36010}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uace0\ud765\uad70,\ubcf4\uc131\uad70}",
+    "person_id": "1966172",
+    "district_ids": "{36,36350,36360}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1958210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\uc0c1\ub85d\uad6c,\uc744}",
+    "person_id": "19551102",
+    "district_ids": "{31,31090,31091,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uc744}",
+    "person_id": "19541106",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad6c\ub9ac\uc2dc}",
+    "person_id": "19561117",
+    "district_ids": "{31,31120}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uc744}",
+    "person_id": "19591123",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud558\ub0a8\uc2dc}",
+    "person_id": "19541114",
+    "district_ids": "{31,31180}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ub3d9\ud574\uc2dc,\uc0bc\ucc99\uc2dc}",
+    "person_id": "19441121",
+    "district_ids": "{32,32040,32070}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc18d\ucd08\uc2dc,\uace0\uc131\uad70,\uc591\uc591\uad70}",
+    "person_id": "1950173",
+    "district_ids": "{32,32060,32400,32410}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\uc0c1\ub2f9\uad6c}",
+    "person_id": "19381190",
+    "district_ids": "{33,33010,33011}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19501104",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uac11}",
+    "person_id": "19581126",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19401136",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "19371136",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uc744}",
+    "person_id": "1962191",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uc744}",
+    "person_id": "19531105",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "1950181",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ub098\uc8fc\uc2dc,\ud654\uc21c\uad70}",
+    "person_id": "19441131",
+    "district_ids": "{36,36040,36370}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19521138",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ub2f4\uc591\uad70,\ud568\ud3c9\uad70,\uc601\uad11\uad70,\uc7a5\uc131\uad70}",
+    "person_id": "19551135",
+    "district_ids": "{36,36310,36430,36440,36450}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "1958197",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uc744}",
+    "person_id": "19441128",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19511108",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "1950188",
+    "district_ids": "{26,26010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0ac\ucc9c\uc2dc,\ub0a8\ud574\uad70,\ud558\ub3d9\uad70}",
+    "person_id": "1945189",
+    "district_ids": "{38,38060,38350,38360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "193121",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "19541124",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uc744}",
+    "person_id": "19591103",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ubd81\uad6c,\uac11}",
+    "person_id": "1964143",
+    "district_ids": "{11,11080,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc6d0\ubbf8\uad6c,\uc744}",
+    "person_id": "195319",
+    "district_ids": "{31,31050,31051,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "1957191",
+    "district_ids": "{11,11130,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "195618",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad6c\ub85c\uad6c,\uac11}",
+    "person_id": "1964170",
+    "district_ids": "{11,11170,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "1964168",
+    "district_ids": "{11,11130,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19601172",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc21c\ucc9c\uc2dc,\uace1\uc131\uad70}",
+    "person_id": "19601162",
+    "district_ids": "{36,36030,36320}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\ud558\uad6c,\uac11}",
+    "person_id": "1955193",
+    "district_ids": "{21,21100,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uc744}",
+    "person_id": "19561107",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\ubcd1}",
+    "person_id": "19591111",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc591\uad70,\uc601\ub355\uad70,\ubd09\ud654\uad70,\uc6b8\uc9c4\uad70}",
+    "person_id": "19571148",
+    "district_ids": "{37,37340,37350,37410,37420}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195224",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19501103",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc5f0\uc218\uad6c}",
+    "person_id": "19471117",
+    "district_ids": "{23,23040}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621112",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19481104",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "1966160",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "1964154",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "19521154",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc911\uc6d0\uad6c}",
+    "person_id": "19481109",
+    "district_ids": "{31,31020,31022}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\ubcd1}",
+    "person_id": "1965190",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub9cc\uc548\uad6c}",
+    "person_id": "19571101",
+    "district_ids": "{31,31040,31041}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc591\uc8fc\uc2dc,\ub3d9\ub450\ucc9c\uc2dc}",
+    "person_id": "19621103",
+    "district_ids": "{31,31260,31080}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uc99d\ud3c9\uad70,\uc9c4\ucc9c\uad70,\uad34\uc0b0\uad70,\uc74c\uc131\uad70}",
+    "person_id": "19541116",
+    "district_ids": "{33,33390,33350,33360,33370}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad6c\ub9ac\uc2dc}",
+    "person_id": "1963169",
+    "district_ids": "{31,31120}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uac11}",
+    "person_id": "19621102",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc5ec\uc8fc\uad70,\uc591\ud3c9\uad70,\uac00\ud3c9\uad70}",
+    "person_id": "1958179",
+    "district_ids": "{31,31320,31380,31370}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ud64d\ucc9c\uad70,\ud6a1\uc131\uad70}",
+    "person_id": "1965162",
+    "district_ids": "{32,32310,32320}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ud0dc\ubc31\uc2dc,\uc601\uc6d4\uad70,\ud3c9\ucc3d\uad70,\uc815\uc120\uad70}",
+    "person_id": "19611119",
+    "district_ids": "{32,32050,32330,32340,32350}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uac11}",
+    "person_id": "19621108",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uc744}",
+    "person_id": "19571140",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\ubcf4\uc740\uad70,\uc625\ucc9c\uad70,\uc601\ub3d9\uad70}",
+    "person_id": "19581141",
+    "district_ids": "{33,33320,33330,33340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ucc9c\uc548\uc2dc,\uac11}",
+    "person_id": "19521105",
+    "district_ids": "{34,34010,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ubd81\uad6c,\uac11}",
+    "person_id": "19561100",
+    "district_ids": "{11,11080,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\uad6c}",
+    "person_id": "19601128",
+    "district_ids": "{11,11020}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ubd81\uad6c,\uc744}",
+    "person_id": "1958191",
+    "district_ids": "{11,11090,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uac11}",
+    "person_id": "19531119",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\ub0a8\uc6d0\uc2dc,\uc21c\ucc3d\uad70}",
+    "person_id": "1953194",
+    "district_ids": "{35,35050,35360}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1948188",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uc744}",
+    "person_id": "19571145",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "1966171",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ub098\uc8fc\uc2dc,\ud654\uc21c\uad70}",
+    "person_id": "1950197",
+    "district_ids": "{36,36040,36370}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uad11\uc591\uc2dc,\uad6c\ub840\uad70}",
+    "person_id": "19591131",
+    "district_ids": "{36,36060,36330}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "19491106",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19491108",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ud574\ub0a8\uad70,\uc644\ub3c4\uad70,\uc9c4\ub3c4\uad70}",
+    "person_id": "19591142",
+    "district_ids": "{36,36400,36460,36470}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ub2f4\uc591\uad70,\ud568\ud3c9\uad70,\uc601\uad11\uad70,\uc7a5\uc131\uad70}",
+    "person_id": "19521140",
+    "district_ids": "{36,36310,36430,36440,36450}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ubd81\uad6c}",
+    "person_id": "19521108",
+    "district_ids": "{37,37010,37012}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc591\uad70,\uc601\ub355\uad70,\ubd09\ud654\uad70,\uc6b8\uc9c4\uad70}",
+    "person_id": "19551112",
+    "district_ids": "{37,37340,37350,37410,37420}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uac70\uc81c\uc2dc}",
+    "person_id": "19541123",
+    "district_ids": "{38,38090}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\uad6c}",
+    "person_id": "1971140",
+    "district_ids": "{11,11020}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc6a9\uc0b0\uad6c}",
+    "person_id": "1950136",
+    "district_ids": "{11,11030}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ub3d9\uad6c,\uac11}",
+    "person_id": "1963188",
+    "district_ids": "{11,11040,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ub3d9\uad6c,\uc744}",
+    "person_id": "1971141",
+    "district_ids": "{11,11040,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ub3d9\ud574\uc2dc,\uc0bc\ucc99\uc2dc}",
+    "person_id": "19631110",
+    "district_ids": "{32,32040,32070}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ubd81\uad6c,\uac11}",
+    "person_id": "1967156",
+    "district_ids": "{11,11090,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uc744}",
+    "person_id": "1962189",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uc744}",
+    "person_id": "19571117",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uac11}",
+    "person_id": "195027",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "1967120",
+    "district_ids": "{11,11130,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uac11}",
+    "person_id": "19551118",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uac11}",
+    "person_id": "19561102",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uac11}",
+    "person_id": "1957192",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uc744}",
+    "person_id": "1969120",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uc744}",
+    "person_id": "19651109",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uace0\ud765\uad70,\ubcf4\uc131\uad70}",
+    "person_id": "1968144",
+    "district_ids": "{36,36350,36360}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad6c\ub85c\uad6c,\uac11}",
+    "person_id": "19591104",
+    "district_ids": "{11,11170,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "19531103",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc601\ub4f1\ud3ec\uad6c,\uc744}",
+    "person_id": "1959181",
+    "district_ids": "{11,11190,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\uc791\uad6c,\uac11}",
+    "person_id": "1965182",
+    "district_ids": "{11,11200,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\uc791\uad6c,\uac11}",
+    "person_id": "1958172",
+    "district_ids": "{11,11200,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\uc791\uad6c,\uc744}",
+    "person_id": "1952175",
+    "district_ids": "{11,11200,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uac11}",
+    "person_id": "1958194",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c}",
+    "person_id": "19531107",
+    "district_ids": "{21,21010,21030}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "19591141",
+    "district_ids": "{21,21020}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uc744}",
+    "person_id": "1963191",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19571121",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "19591105",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uac11}",
+    "person_id": "19521117",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\ud558\uad6c,\uac11}",
+    "person_id": "1966157",
+    "district_ids": "{21,21100,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "1958198",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc5f0\uc81c\uad6c}",
+    "person_id": "1971214",
+    "district_ids": "{21,21130}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc218\uc601\uad6c}",
+    "person_id": "19601137",
+    "district_ids": "{21,21140}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc218\uc601\uad6c}",
+    "person_id": "1945195",
+    "district_ids": "{21,21140}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "19541110",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195029",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uc744}",
+    "person_id": "19601139",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uac11}",
+    "person_id": "1945180",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uac11}",
+    "person_id": "1962169",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uc744}",
+    "person_id": "19601113",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uac11}",
+    "person_id": "1955174",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c,\uc639\uc9c4\uad70}",
+    "person_id": "19571123",
+    "district_ids": "{23,23010,23020,23320}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19561109",
+    "district_ids": "{23,23030,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1962194",
+    "district_ids": "{23,23030,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19601145",
+    "district_ids": "{23,23030,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uc744}",
+    "person_id": "19421163",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uac11}",
+    "person_id": "19591113",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uacc4\uc591\uad6c,\uac11}",
+    "person_id": "19521121",
+    "district_ids": "{23,23070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uacc4\uc591\uad6c,\uc744}",
+    "person_id": "19551122",
+    "district_ids": "{23,23070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac15\ud654\uad70,\uac11}",
+    "person_id": "19601147",
+    "district_ids": "{23,23080,23310,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac15\ud654\uad70,\uc744}",
+    "person_id": "19611105",
+    "district_ids": "{23,23080,23310,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "1951196",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "19581108",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "19571128",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "19611107",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19581109",
+    "district_ids": "{25,25010}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19551124",
+    "district_ids": "{25,25010}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "1955149",
+    "district_ids": "{25,25020}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "19601116",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "19591114",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "197418",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc720\uc131\uad6c}",
+    "person_id": "19581111",
+    "district_ids": "{25,25040}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "197622",
+    "district_ids": "{26,26010}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "19591116",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1963199",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c}",
+    "person_id": "1962198",
+    "district_ids": "{26,26040}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc6b8\uc8fc\uad70}",
+    "person_id": "19421164",
+    "district_ids": "{26,26310}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc}",
+    "person_id": "19471118",
+    "district_ids": "{31,31010}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc218\uc815\uad6c}",
+    "person_id": "1965191",
+    "district_ids": "{31,31020,31021}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc911\uc6d0\uad6c}",
+    "person_id": "1966216",
+    "district_ids": "{31,31020,31022}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc911\uc6d0\uad6c}",
+    "person_id": "19561113",
+    "district_ids": "{31,31020,31022}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc815\ubd80\uc2dc,\uc744}",
+    "person_id": "19491112",
+    "district_ids": "{31,31030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc815\ubd80\uc2dc,\uac11}",
+    "person_id": "19631101",
+    "district_ids": "{31,31030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub9cc\uc548\uad6c}",
+    "person_id": "19571131",
+    "district_ids": "{31,31040,31041}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc6d0\ubbf8\uad6c,\uac11}",
+    "person_id": "1960141",
+    "district_ids": "{31,31050,31051,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc6d0\ubbf8\uad6c,\uac11}",
+    "person_id": "19461129",
+    "district_ids": "{31,31050,31051,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc5f0\uc218\uad6c}",
+    "person_id": "19591112",
+    "district_ids": "{23,23040}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uba85\uc2dc,\uc744}",
+    "person_id": "194929",
+    "district_ids": "{31,31060,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1959183",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "194428",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\uc11c\uad6c}",
+    "person_id": "1960214",
+    "district_ids": "{31,31100,31104}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad6c\ub9ac\uc2dc}",
+    "person_id": "19601153",
+    "district_ids": "{31,31120}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uac11}",
+    "person_id": "1965198",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uc744}",
+    "person_id": "19561118",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc624\uc0b0\uc2dc}",
+    "person_id": "1966164",
+    "district_ids": "{31,31140}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uac11}",
+    "person_id": "1966165",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uc744}",
+    "person_id": "19631126",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad70\ud3ec\uc2dc}",
+    "person_id": "19621106",
+    "district_ids": "{31,31160}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud30c\uc8fc\uc2dc,\uc744}",
+    "person_id": "1962149",
+    "district_ids": "{31,31200,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\uac11}",
+    "person_id": "19631107",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\ubcd1}",
+    "person_id": "19591125",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\ubcd1}",
+    "person_id": "1965199",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uae40\ud3ec\uc2dc}",
+    "person_id": "19571137",
+    "district_ids": "{31,31230}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3ec\ucc9c\uc2dc,\uc5f0\ucc9c\uad70}",
+    "person_id": "19601155",
+    "district_ids": "{31,31270,31350}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ucd98\ucc9c\uc2dc}",
+    "person_id": "19431136",
+    "district_ids": "{32,32010}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc18d\ucd08\uc2dc,\uace0\uc131\uad70,\uc591\uc591\uad70}",
+    "person_id": "1966167",
+    "district_ids": "{32,32060,32400,32410}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uac11}",
+    "person_id": "19491117",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uc81c\ucc9c\uc2dc,\ub2e8\uc591\uad70}",
+    "person_id": "19461133",
+    "district_ids": "{33,33030,33380}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc6d0\uad70}",
+    "person_id": "19481129",
+    "district_ids": "{33,33310}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ucc9c\uc548\uc2dc,\uac11}",
+    "person_id": "19591127",
+    "district_ids": "{34,34010,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ucc9c\uc548\uc2dc,\uc744}",
+    "person_id": "19491118",
+    "district_ids": "{34,34010,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubcf4\ub839\uc2dc,\uc11c\ucc9c\uad70}",
+    "person_id": "19631112",
+    "district_ids": "{34,34030,34340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubcf4\ub839\uc2dc,\uc11c\ucc9c\uad70}",
+    "person_id": "19491119",
+    "district_ids": "{34,34030,34340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc544\uc0b0\uc2dc}",
+    "person_id": "19551133",
+    "district_ids": "{34,34040}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "19421167",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uc744}",
+    "person_id": "19561124",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uac11}",
+    "person_id": "19621109",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uac11}",
+    "person_id": "19601159",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uc744}",
+    "person_id": "1956215",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc815\uc74d\uc2dc}",
+    "person_id": "19361122",
+    "district_ids": "{35,35040}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\ub0a8\uc6d0\uc2dc,\uc21c\ucc3d\uad70}",
+    "person_id": "19531120",
+    "district_ids": "{35,35050,35360}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uae40\uc81c\uc2dc,\uc644\uc8fc\uad70}",
+    "person_id": "1950196",
+    "district_ids": "{35,35060,35310}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uace0\ucc3d\uad70,\ubd80\uc548\uad70}",
+    "person_id": "19531121",
+    "district_ids": "{35,35370,35380}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uc744}",
+    "person_id": "19521139",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uad11\uc591\uc2dc,\uad6c\ub840\uad70}",
+    "person_id": "19571146",
+    "district_ids": "{36,36060,36330}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uace0\ud765\uad70,\ubcf4\uc131\uad70}",
+    "person_id": "19401170",
+    "district_ids": "{36,36350,36360}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc7a5\ud765\uad70,\uac15\uc9c4\uad70,\uc601\uc554\uad70}",
+    "person_id": "19521141",
+    "district_ids": "{36,36380,36390,36410}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ub0a8\uad6c,\uc6b8\ub989\uad70}",
+    "person_id": "19521142",
+    "district_ids": "{37,37010,37011,37430}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uc744}",
+    "person_id": "19431139",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc8fc\uc2dc}",
+    "person_id": "1950199",
+    "district_ids": "{37,37060}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc0b0\uc2dc,\uccad\ub3c4\uad70}",
+    "person_id": "19551143",
+    "district_ids": "{37,37100,37360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad70\uc704\uad70,\uc758\uc131\uad70,\uccad\uc1a1\uad70}",
+    "person_id": "1964196",
+    "district_ids": "{37,37310,37320,37330}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad70\uc704\uad70,\uc758\uc131\uad70,\uccad\uc1a1\uad70}",
+    "person_id": "1964197",
+    "district_ids": "{37,37310,37320,37330}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "19591107",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19511109",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "1972112",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uac11}",
+    "person_id": "19601168",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uac11}",
+    "person_id": "1954178",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uc744}",
+    "person_id": "19611132",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uae40\ud574\uc2dc,\uac11}",
+    "person_id": "19601169",
+    "district_ids": "{38,38070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc591\uc0b0\uc2dc}",
+    "person_id": "1968134",
+    "district_ids": "{38,38100}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uac11}",
+    "person_id": "19521149",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uc744}",
+    "person_id": "19551144",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc11c\uadc0\ud3ec\uc2dc}",
+    "person_id": "19651105",
+    "district_ids": "{39,39020}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uac11}",
+    "person_id": "19481121",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uac11}",
+    "person_id": "1953216",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud30c\uc8fc\uc2dc,\uc744}",
+    "person_id": "19461131",
+    "district_ids": "{31,31200,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1959213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ub3d9\uad6c,\uac11}",
+    "person_id": "1956199",
+    "district_ids": "{11,11040,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uc744}",
+    "person_id": "19581103",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ud1b5\uc601\uc2dc,\uace0\uc131\uad70}",
+    "person_id": "19521109",
+    "district_ids": "{38,38050,38340}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uac11}",
+    "person_id": "1950193",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "19461109",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uc744}",
+    "person_id": "195827",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uc744}",
+    "person_id": "19601133",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ubb38\uacbd\uc2dc,\uc608\ucc9c\uad70}",
+    "person_id": "19521145",
+    "district_ids": "{37,37090,37400}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uae08\uc815\uad6c}",
+    "person_id": "1961212",
+    "district_ids": "{21,21110}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad6c\ub85c\uad6c,\uc744}",
+    "person_id": "1960211",
+    "district_ids": "{11,11170,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\uc11c\uad6c}",
+    "person_id": "196226",
+    "district_ids": "{31,31100,31104}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc601\ub4f1\ud3ec\uad6c,\uac11}",
+    "person_id": "195526",
+    "district_ids": "{11,11190,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "1958170",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ubd81\uad6c,\uac11}",
+    "person_id": "196022",
+    "district_ids": "{11,11080,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc11c\uc0b0\uc2dc,\ud0dc\uc548\uad70}",
+    "person_id": "19511106",
+    "district_ids": "{34,34050,34380}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "194927",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491126",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uac11}",
+    "person_id": "1959214",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0ac\ucc9c\uc2dc,\ub0a8\ud574\uad70,\ud558\ub3d9\uad70}",
+    "person_id": "1953196",
+    "district_ids": "{38,38060,38350,38360}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "1956177",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uc744}",
+    "person_id": "19591102",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uac11}",
+    "person_id": "1967118",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uc744}",
+    "person_id": "19621121",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ubd81\uad6c,\uac11}",
+    "person_id": "1958190",
+    "district_ids": "{11,11090,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3c4\ubd09\uad6c,\uc744}",
+    "person_id": "1963189",
+    "district_ids": "{11,11100,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ub300\ubb38\uad6c,\uac11}",
+    "person_id": "1962128",
+    "district_ids": "{11,11130,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc591\ucc9c\uad6c,\uc744}",
+    "person_id": "1968136",
+    "district_ids": "{11,11150,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "19571118",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "1958193",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\uc791\uad6c,\uc744}",
+    "person_id": "1970122",
+    "district_ids": "{11,11200,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uc744}",
+    "person_id": "19471116",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uac11}",
+    "person_id": "19561104",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "196328",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uac11}",
+    "person_id": "19601134",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ubb38\uacbd\uc2dc,\uc608\ucc9c\uad70}",
+    "person_id": "19651104",
+    "district_ids": "{37,37090,37400}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198023",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uc744}",
+    "person_id": "19551152",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uc744}",
+    "person_id": "19551121",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19591139",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "19611102",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\ub798\uad6c}",
+    "person_id": "19571120",
+    "district_ids": "{21,21060}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "1971144",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "1965184",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uac11}",
+    "person_id": "1963193",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\uc0c1\uad6c}",
+    "person_id": "1963195",
+    "district_ids": "{21,21150}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uae08\uc815\uad6c}",
+    "person_id": "1972113",
+    "district_ids": "{21,21110}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc5f0\uc81c\uad6c}",
+    "person_id": "1971124",
+    "district_ids": "{21,21130}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc218\uc601\uad6c}",
+    "person_id": "19561106",
+    "district_ids": "{21,21140}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "19561108",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uac11}",
+    "person_id": "1968141",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c,\uc639\uc9c4\uad70}",
+    "person_id": "19491129",
+    "district_ids": "{23,23010,23020,23320}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uc744}",
+    "person_id": "19571126",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac15\ud654\uad70,\uac11}",
+    "person_id": "19641105",
+    "district_ids": "{23,23080,23310,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "19511114",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "1964153",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "1966161",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "19521125",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uad11\uc0b0\uad6c,\uc744}",
+    "person_id": "1951198",
+    "district_ids": "{24,24050,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "19631128",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19551128",
+    "district_ids": "{26,26030}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19521127",
+    "district_ids": "{26,26030}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621115",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19551127",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uac11}",
+    "person_id": "19591117",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uc744}",
+    "person_id": "196528",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "196723",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc218\uc815\uad6c}",
+    "person_id": "1951183",
+    "district_ids": "{31,31020,31021}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub3d9\uc548\uad6c,\uc744}",
+    "person_id": "19631102",
+    "district_ids": "{31,31040,31042,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc815\ubd80\uc2dc,\uac11}",
+    "person_id": "19581116",
+    "district_ids": "{31,31030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uace0\ub839\uad70,\uc131\uc8fc\uad70,\uce60\uace1\uad70}",
+    "person_id": "19601166",
+    "district_ids": "{37,37370,37380,37390}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub3d9\uc548\uad6c,\uac11}",
+    "person_id": "1950191",
+    "district_ids": "{31,31040,31042,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc6d0\ubbf8\uad6c,\uac11}",
+    "person_id": "19621100",
+    "district_ids": "{31,31050,31051,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc18c\uc0ac\uad6c}",
+    "person_id": "19591119",
+    "district_ids": "{31,31050,31052}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc18c\uc0ac\uad6c}",
+    "person_id": "19571132",
+    "district_ids": "{31,31050,31052}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uba85\uc2dc,\uac11}",
+    "person_id": "19511115",
+    "district_ids": "{31,31060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\uc0c1\ub85d\uad6c,\uac11}",
+    "person_id": "19621104",
+    "district_ids": "{31,31090,31091,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uac11}",
+    "person_id": "1966163",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uc744}",
+    "person_id": "19511102",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19521151",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1965211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uc744}",
+    "person_id": "19631105",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uac11}",
+    "person_id": "19591124",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uc744}",
+    "person_id": "19511104",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud558\ub0a8\uc2dc}",
+    "person_id": "19491115",
+    "district_ids": "{31,31180}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud30c\uc8fc\uc2dc,\uac11}",
+    "person_id": "19571136",
+    "district_ids": "{31,31200,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc774\ucc9c\uc2dc}",
+    "person_id": "19651100",
+    "district_ids": "{31,31210}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc774\ucc9c\uc2dc}",
+    "person_id": "19481136",
+    "district_ids": "{31,31210}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\uac11}",
+    "person_id": "19571103",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc131\uc2dc}",
+    "person_id": "19611113",
+    "district_ids": "{31,31220}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uae40\ud3ec\uc2dc}",
+    "person_id": "19601154",
+    "district_ids": "{31,31230}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uc8fc\uc2dc}",
+    "person_id": "19541115",
+    "district_ids": "{31,31250}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3ec\ucc9c\uc2dc,\uc5f0\ucc9c\uad70}",
+    "person_id": "1967149",
+    "district_ids": "{31,31270,31350}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3ec\ucc9c\uc2dc,\uc5f0\ucc9c\uad70}",
+    "person_id": "19561121",
+    "district_ids": "{31,31270,31350}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc18d\ucd08\uc2dc,\uace0\uc131\uad70,\uc591\uc591\uad70}",
+    "person_id": "1963173",
+    "district_ids": "{32,32060,32400,32410}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uc744}",
+    "person_id": "19571139",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\ucda9\uc8fc\uc2dc}",
+    "person_id": "19461132",
+    "district_ids": "{33,33020}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ucc9c\uc548\uc2dc,\uc744}",
+    "person_id": "1966177",
+    "district_ids": "{34,34010,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ucc9c\uc548\uc2dc,\uc744}",
+    "person_id": "19551108",
+    "district_ids": "{34,34010,NULL}"
+  },
+  {
+    "district": "{\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc}",
+    "person_id": "19411164",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uac11}",
+    "person_id": "1963117",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc815\uc74d\uc2dc}",
+    "person_id": "1959193",
+    "district_ids": "{35,35040}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc815\uc74d\uc2dc}",
+    "person_id": "19601160",
+    "district_ids": "{35,35040}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uae40\uc81c\uc2dc,\uc644\uc8fc\uad70}",
+    "person_id": "19571143",
+    "district_ids": "{35,35060,35310}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ubaa9\ud3ec\uc2dc}",
+    "person_id": "19611124",
+    "district_ids": "{36,36010}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uad11\uc591\uc2dc,\uad6c\ub840\uad70}",
+    "person_id": "1971210",
+    "district_ids": "{36,36060,36330}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uace0\ud765\uad70,\ubcf4\uc131\uad70}",
+    "person_id": "1954193",
+    "district_ids": "{36,36350,36360}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ud574\ub0a8\uad70,\uc644\ub3c4\uad70,\uc9c4\ub3c4\uad70}",
+    "person_id": "19551138",
+    "district_ids": "{36,36400,36460,36470}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "1965172",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ubb34\uc548\uad70,\uc2e0\uc548\uad70}",
+    "person_id": "19601163",
+    "district_ids": "{36,36420,36480}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ub2f4\uc591\uad70,\ud568\ud3c9\uad70,\uc601\uad11\uad70,\uc7a5\uc131\uad70}",
+    "person_id": "19471122",
+    "district_ids": "{36,36310,36430,36440,36450}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ub0a8\uad6c,\uc6b8\ub989\uad70}",
+    "person_id": "1969140",
+    "district_ids": "{37,37010,37011,37430}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uae40\ucc9c\uc2dc}",
+    "person_id": "19551140",
+    "district_ids": "{37,37030}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uac11}",
+    "person_id": "1964167",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc548\ub3d9\uc2dc}",
+    "person_id": "19481132",
+    "district_ids": "{37,37040}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\ucc9c\uc2dc}",
+    "person_id": "19531123",
+    "district_ids": "{37,37070}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ubb38\uacbd\uc2dc,\uc608\ucc9c\uad70}",
+    "person_id": "19571154",
+    "district_ids": "{37,37090,37400}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uace0\ub839\uad70,\uc131\uc8fc\uad70,\uce60\uace1\uad70}",
+    "person_id": "19521146",
+    "district_ids": "{37,37370,37380,37390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19601167",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ubc00\uc591\uc2dc,\ucc3d\ub155\uad70}",
+    "person_id": "19631127",
+    "district_ids": "{38,38080,38330}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ubc00\uc591\uc2dc,\ucc3d\ub155\uad70}",
+    "person_id": "19521148",
+    "district_ids": "{38,38080,38330}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0ac\ucc9c\uc2dc,\ub0a8\ud574\uad70,\ud558\ub3d9\uad70}",
+    "person_id": "19481134",
+    "district_ids": "{38,38060,38350,38360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "19631122",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc18c\uc0ac\uad6c}",
+    "person_id": "1954213",
+    "district_ids": "{31,31050,31052}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uac11}",
+    "person_id": "1961196",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\ub3d9}",
+    "person_id": "196229",
+    "district_ids": "{31,31100,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19551147",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uae40\ucc9c\uc2dc}",
+    "person_id": "194525",
+    "district_ids": "{37,37030}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uc744}",
+    "person_id": "195929",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uac11}",
+    "person_id": "19531108",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc6d0\ubbf8\uad6c,\uc744}",
+    "person_id": "1954212",
+    "district_ids": "{31,31050,31051,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub3d9\uad6c,\uc744}",
+    "person_id": "1960212",
+    "district_ids": "{11,11250,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uc744}",
+    "person_id": "19541104",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc6a9\uc0b0\uad6c}",
+    "person_id": "196326",
+    "district_ids": "{11,11030}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uac11}",
+    "person_id": "1956197",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1965176",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19541125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1955210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uc744}",
+    "person_id": "19601164",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc815\ubd80\uc2dc,\uc744}",
+    "person_id": "19491111",
+    "district_ids": "{31,31030,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19551149",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uc744}",
+    "person_id": "1965183",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1974210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uc8fc\uc2dc}",
+    "person_id": "19501106",
+    "district_ids": "{31,31250}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195828",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uac11}",
+    "person_id": "195128",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195522",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1968149",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "1961195",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1961216",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "19601132",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "1945193",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "1966152",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc885\ub85c\uad6c}",
+    "person_id": "19521112",
+    "district_ids": "{11,11010}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\uad6c}",
+    "person_id": "19571116",
+    "district_ids": "{11,11020}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\uad6c}",
+    "person_id": "198312",
+    "district_ids": "{11,11020}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc6a9\uc0b0\uad6c}",
+    "person_id": "1951192",
+    "district_ids": "{11,11030}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19431142",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ub3d9\uad6c,\uc744}",
+    "person_id": "1967139",
+    "district_ids": "{11,11040,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ub3d9\uad6c,\uc744}",
+    "person_id": "198611",
+    "district_ids": "{11,11040,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uac11}",
+    "person_id": "19531100",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uac11}",
+    "person_id": "1964166",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad11\uc9c4\uad6c,\uc744}",
+    "person_id": "1966153",
+    "district_ids": "{11,11050,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uac11}",
+    "person_id": "1967140",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uac11}",
+    "person_id": "1958189",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "19481120",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3d9\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "19441127",
+    "district_ids": "{11,11060,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uac11}",
+    "person_id": "1964210",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uc744}",
+    "person_id": "1969132",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uc744}",
+    "person_id": "1950182",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uc744}",
+    "person_id": "1961197",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ubd81\uad6c,\uac11}",
+    "person_id": "1957138",
+    "district_ids": "{11,11080,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc131\ubd81\uad6c,\uc744}",
+    "person_id": "1943184",
+    "district_ids": "{11,11080,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ubd81\uad6c,\uac11}",
+    "person_id": "197715",
+    "district_ids": "{11,11090,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ubd81\uad6c,\uc744}",
+    "person_id": "1950183",
+    "district_ids": "{11,11090,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ubd81\uad6c,\uc744}",
+    "person_id": "1966154",
+    "district_ids": "{11,11090,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3c4\ubd09\uad6c,\uac11}",
+    "person_id": "196527",
+    "district_ids": "{11,11100,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3c4\ubd09\uad6c,\uac11}",
+    "person_id": "1953215",
+    "district_ids": "{11,11100,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3c4\ubd09\uad6c,\uac11}",
+    "person_id": "19461123",
+    "district_ids": "{11,11100,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub3c4\ubd09\uad6c,\uc744}",
+    "person_id": "197912",
+    "district_ids": "{11,11100,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uac11}",
+    "person_id": "19541103",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uac11}",
+    "person_id": "1974117",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uac11}",
+    "person_id": "19491105",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uac11}",
+    "person_id": "1967141",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uc744}",
+    "person_id": "19411162",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uc744}",
+    "person_id": "19561101",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\uc744}",
+    "person_id": "1970121",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "19521113",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub178\uc6d0\uad6c,\ubcd1}",
+    "person_id": "1954211",
+    "district_ids": "{11,11110,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uac11}",
+    "person_id": "1968135",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uac11}",
+    "person_id": "1963190",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uac11}",
+    "person_id": "197218",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc740\ud3c9\uad6c,\uc744}",
+    "person_id": "1962190",
+    "district_ids": "{11,11120,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ub300\ubb38\uad6c,\uc744}",
+    "person_id": "19461124",
+    "district_ids": "{11,11130,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uc744}",
+    "person_id": "198411",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\ub9c8\ud3ec\uad6c,\uc744}",
+    "person_id": "1968211",
+    "district_ids": "{11,11140,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc591\ucc9c\uad6c,\uac11}",
+    "person_id": "19551119",
+    "district_ids": "{11,11150,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc591\ucc9c\uad6c,\uac11}",
+    "person_id": "196228",
+    "district_ids": "{11,11150,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc591\ucc9c\uad6c,\uc744}",
+    "person_id": "1958192",
+    "district_ids": "{11,11150,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc591\ucc9c\uad6c,\uc744}",
+    "person_id": "1964169",
+    "district_ids": "{11,11150,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc591\ucc9c\uad6c,\uc744}",
+    "person_id": "198511",
+    "district_ids": "{11,11150,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "19531102",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "1961198",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\uc11c\uad6c,\uac11}",
+    "person_id": "197219",
+    "district_ids": "{11,11160,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad6c\ub85c\uad6c,\uac11}",
+    "person_id": "1971142",
+    "district_ids": "{11,11170,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad6c\ub85c\uad6c,\uc744}",
+    "person_id": "1961199",
+    "district_ids": "{11,11170,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad6c\ub85c\uad6c,\uc744}",
+    "person_id": "1966215",
+    "district_ids": "{11,11170,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "1950184",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "1965180",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "19561103",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "1966155",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uae08\ucc9c\uad6c}",
+    "person_id": "19611100",
+    "district_ids": "{11,11180}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc601\ub4f1\ud3ec\uad6c,\uac11}",
+    "person_id": "19611101",
+    "district_ids": "{11,11190,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc601\ub4f1\ud3ec\uad6c,\uac11}",
+    "person_id": "1965181",
+    "district_ids": "{11,11190,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc601\ub4f1\ud3ec\uad6c,\uc744}",
+    "person_id": "19531104",
+    "district_ids": "{11,11190,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uac11}",
+    "person_id": "1958195",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uac11}",
+    "person_id": "1946175",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uc744}",
+    "person_id": "1971143",
+    "district_ids": "{11,11210,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uac11}",
+    "person_id": "19551120",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uac11}",
+    "person_id": "1967142",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uc744}",
+    "person_id": "1964171",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc11c\ucd08\uad6c,\uc744}",
+    "person_id": "1972217",
+    "district_ids": "{11,11220,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uac11}",
+    "person_id": "19541105",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uac11}",
+    "person_id": "1969133",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub0a8\uad6c,\uc744}",
+    "person_id": "19521114",
+    "district_ids": "{11,11230,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uac11}",
+    "person_id": "194828",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uac11}",
+    "person_id": "1964172",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uac11}",
+    "person_id": "1950185",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uac11}",
+    "person_id": "1964173",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\uac11}",
+    "person_id": "19481122",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\ubcd1}",
+    "person_id": "1962124",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub3d9\uad6c,\uac11}",
+    "person_id": "19531106",
+    "district_ids": "{11,11250,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uac15\ub3d9\uad6c,\uac11}",
+    "person_id": "1951193",
+    "district_ids": "{11,11250,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c}",
+    "person_id": "19461125",
+    "district_ids": "{21,21010,21030}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub3d9\uad6c}",
+    "person_id": "19571119",
+    "district_ids": "{21,21010,21030}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "1962192",
+    "district_ids": "{21,21020}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "19541107",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "196327",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc601\ub3c4\uad6c}",
+    "person_id": "1947147",
+    "district_ids": "{21,21040}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uac11}",
+    "person_id": "19601135",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uc744}",
+    "person_id": "1963192",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uc744}",
+    "person_id": "19541108",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\ub798\uad6c}",
+    "person_id": "1966156",
+    "district_ids": "{21,21060}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\ub798\uad6c}",
+    "person_id": "19521116",
+    "district_ids": "{21,21060}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\ub798\uad6c}",
+    "person_id": "1950186",
+    "district_ids": "{21,21060}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19541109",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19461126",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "1967143",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1968137",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1964113",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1958196",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "1964174",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "19531109",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac15\uc11c\uad6c,\uc744}",
+    "person_id": "19591106",
+    "district_ids": "{21,21080,21120,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uac11}",
+    "person_id": "1965185",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uc744}",
+    "person_id": "1968138",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uc744}",
+    "person_id": "19601136",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uc744}",
+    "person_id": "1958199",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ud574\uc6b4\ub300\uad6c,\uae30\uc7a5\uad70,\uc744}",
+    "person_id": "19491107",
+    "district_ids": "{21,21090,21310,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\ud558\uad6c,\uac11}",
+    "person_id": "197614",
+    "district_ids": "{21,21100,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\ud558\uad6c,\uac11}",
+    "person_id": "198412",
+    "district_ids": "{21,21100,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\ud558\uad6c,\uc744}",
+    "person_id": "19521118",
+    "district_ids": "{21,21100,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc5f0\uc81c\uad6c}",
+    "person_id": "1964175",
+    "district_ids": "{21,21130}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc5f0\uc81c\uad6c}",
+    "person_id": "19561105",
+    "district_ids": "{21,21130}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc218\uc601\uad6c}",
+    "person_id": "1963194",
+    "district_ids": "{21,21140}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\uc0c1\uad6c}",
+    "person_id": "198521",
+    "district_ids": "{21,21150}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\uc0c1\uad6c}",
+    "person_id": "19531110",
+    "district_ids": "{21,21150}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\uc0ac\uc0c1\uad6c}",
+    "person_id": "1951194",
+    "district_ids": "{21,21150}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "19581100",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "1967144",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "1966158",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "198012",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "19601138",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc911\uad6c,\ub0a8\uad6c}",
+    "person_id": "19581101",
+    "district_ids": "{22,22010,22040}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uac11}",
+    "person_id": "19571122",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uac11}",
+    "person_id": "19581102",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uac11}",
+    "person_id": "1968140",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uac11}",
+    "person_id": "1969134",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uc744}",
+    "person_id": "1962193",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uc744}",
+    "person_id": "1967145",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub3d9\uad6c,\uc744}",
+    "person_id": "1969135",
+    "district_ids": "{22,22020,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "1963196",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "195728",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "1951195",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "19411163",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "19531111",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc11c\uad6c}",
+    "person_id": "19521119",
+    "district_ids": "{22,22030}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "195928",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "19591108",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "1964176",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "19601140",
+    "district_ids": "{22,22050,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uac11}",
+    "person_id": "19591109",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uac11}",
+    "person_id": "19601141",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uc744}",
+    "person_id": "1964177",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\uc218\uc131\uad6c,\uc744}",
+    "person_id": "19601142",
+    "district_ids": "{22,22060,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uac11}",
+    "person_id": "19601143",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uac11}",
+    "person_id": "19581105",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uc744}",
+    "person_id": "19611104",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uc744}",
+    "person_id": "1953142",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uc744}",
+    "person_id": "1970123",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\uc744}",
+    "person_id": "19591110",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc11c\uad6c,\ubcd1}",
+    "person_id": "1974118",
+    "district_ids": "{22,22070,NULL}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc131\uad70}",
+    "person_id": "1950187",
+    "district_ids": "{22,22310}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc131\uad70}",
+    "person_id": "1969136",
+    "district_ids": "{22,22310}"
+  },
+  {
+    "district": "{\ub300\uad6c\uad11\uc5ed\uc2dc,\ub2ec\uc131\uad70}",
+    "person_id": "19601144",
+    "district_ids": "{22,22310}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "198313",
+    "district_ids": "{23,23030,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "195826",
+    "district_ids": "{23,23030,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc5f0\uc218\uad6c}",
+    "person_id": "19571124",
+    "district_ids": "{23,23040}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc5f0\uc218\uad6c}",
+    "person_id": "19581106",
+    "district_ids": "{23,23040}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uac11}",
+    "person_id": "19481124",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uac11}",
+    "person_id": "19581107",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uac11}",
+    "person_id": "19561110",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uc744}",
+    "person_id": "19571125",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ub0a8\ub3d9\uad6c,\uc744}",
+    "person_id": "19601146",
+    "district_ids": "{23,23050,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uac11}",
+    "person_id": "19541111",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uac11}",
+    "person_id": "1945196",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uac11}",
+    "person_id": "19461127",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uc744}",
+    "person_id": "1962195",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\ubd80\ud3c9\uad6c,\uc744}",
+    "person_id": "1968142",
+    "district_ids": "{23,23060,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uacc4\uc591\uad6c,\uac11}",
+    "person_id": "19521120",
+    "district_ids": "{23,23070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uacc4\uc591\uad6c,\uac11}",
+    "person_id": "1960213",
+    "district_ids": "{23,23070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uacc4\uc591\uad6c,\uc744}",
+    "person_id": "1963197",
+    "district_ids": "{23,23070,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac15\ud654\uad70,\uc744}",
+    "person_id": "19461128",
+    "district_ids": "{23,23080,23310,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac15\ud654\uad70,\uc744}",
+    "person_id": "19551123",
+    "district_ids": "{23,23080,23310,NULL}"
+  },
+  {
+    "district": "{\uc778\ucc9c\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac15\ud654\uad70,\uc744}",
+    "person_id": "1966159",
+    "district_ids": "{23,23080,23310,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "198221",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19571127",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19521122",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "1965186",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19611106",
+    "district_ids": "{24,24010}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "19481125",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "1956212",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "1961213",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "19561111",
+    "district_ids": "{24,24020,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub0a8\uad6c}",
+    "person_id": "19521123",
+    "district_ids": "{24,24030}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ub0a8\uad6c}",
+    "person_id": "19571129",
+    "district_ids": "{24,24030}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "1951197",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uac11}",
+    "person_id": "19481126",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "19521124",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\ubd81\uad6c,\uc744}",
+    "person_id": "1970124",
+    "district_ids": "{24,24040,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uac11}",
+    "person_id": "1962196",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "1956213",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc11c\uad6c,\uc744}",
+    "person_id": "197823",
+    "district_ids": "{25,25030,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc720\uc131\uad6c}",
+    "person_id": "19581110",
+    "district_ids": "{25,25040}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc720\uc131\uad6c}",
+    "person_id": "198212",
+    "district_ids": "{25,25040}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub300\ub355\uad6c}",
+    "person_id": "19551125",
+    "district_ids": "{25,25050}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub300\ub355\uad6c}",
+    "person_id": "19571130",
+    "district_ids": "{25,25050}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "1951199",
+    "district_ids": "{26,26010}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "1964178",
+    "district_ids": "{26,26010}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "1965189",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uac11}",
+    "person_id": "19591115",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1962197",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1969137",
+    "district_ids": "{26,26020,NULL}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19481127",
+    "district_ids": "{26,26030}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "1964211",
+    "district_ids": "{26,26030}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "19611109",
+    "district_ids": "{26,26030}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\ubd81\uad6c}",
+    "person_id": "19511100",
+    "district_ids": "{26,26040}"
+  },
+  {
+    "district": "{\uc6b8\uc0b0\uad11\uc5ed\uc2dc,\uc6b8\uc8fc\uad70}",
+    "person_id": "19601148",
+    "district_ids": "{26,26310}"
+  },
+  {
+    "district": "{\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc}",
+    "person_id": "19581112",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc}",
+    "person_id": "196715",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc}",
+    "person_id": "1961130",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uac11}",
+    "person_id": "1970125",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uac11}",
+    "person_id": "19541113",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uac11}",
+    "person_id": "1962199",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uc744}",
+    "person_id": "19631100",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uc744}",
+    "person_id": "19581113",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\uc744}",
+    "person_id": "19581114",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\ubcd1}",
+    "person_id": "1967146",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc,\ubcd1}",
+    "person_id": "19531112",
+    "district_ids": "{31,31010,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc218\uc6d0\uc2dc}",
+    "person_id": "19531113",
+    "district_ids": "{31,31010}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc218\uc815\uad6c}",
+    "person_id": "19611110",
+    "district_ids": "{31,31020,31021}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc911\uc6d0\uad6c}",
+    "person_id": "19521129",
+    "district_ids": "{31,31020,31022}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\uc911\uc6d0\uad6c}",
+    "person_id": "1950189",
+    "district_ids": "{31,31020,31022}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uac11}",
+    "person_id": "19601149",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uac11}",
+    "person_id": "1956123",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uac11}",
+    "person_id": "19531114",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uac11}",
+    "person_id": "1965192",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uc744}",
+    "person_id": "19581115",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uc744}",
+    "person_id": "1965193",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc131\ub0a8\uc2dc,\ubd84\ub2f9\uad6c,\uc744}",
+    "person_id": "19491110",
+    "district_ids": "{31,31020,31023,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub9cc\uc548\uad6c}",
+    "person_id": "1950190",
+    "district_ids": "{31,31040,31041}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub9cc\uc548\uad6c}",
+    "person_id": "19601150",
+    "district_ids": "{31,31040,31041}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub9cc\uc548\uad6c}",
+    "person_id": "19591118",
+    "district_ids": "{31,31040,31041}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc591\uc2dc,\ub3d9\uc548\uad6c,\uc744}",
+    "person_id": "19631103",
+    "district_ids": "{31,31040,31042,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc6d0\ubbf8\uad6c,\uac11}",
+    "person_id": "1965194",
+    "district_ids": "{31,31050,31051,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc18c\uc0ac\uad6c}",
+    "person_id": "19571133",
+    "district_ids": "{31,31050,31052}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc624\uc815\uad6c}",
+    "person_id": "19581118",
+    "district_ids": "{31,31050,31053}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc624\uc815\uad6c}",
+    "person_id": "19551129",
+    "district_ids": "{31,31050,31053}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc624\uc815\uad6c}",
+    "person_id": "19581119",
+    "district_ids": "{31,31050,31053}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ubd80\ucc9c\uc2dc,\uc624\uc815\uad6c}",
+    "person_id": "1945197",
+    "district_ids": "{31,31050,31053}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uba85\uc2dc,\uac11}",
+    "person_id": "1965195",
+    "district_ids": "{31,31060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uba85\uc2dc,\uac11}",
+    "person_id": "19621101",
+    "district_ids": "{31,31060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uba85\uc2dc,\uc744}",
+    "person_id": "1972218",
+    "district_ids": "{31,31060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uba85\uc2dc,\uc744}",
+    "person_id": "19551130",
+    "district_ids": "{31,31060,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uac11}",
+    "person_id": "19561114",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uac11}",
+    "person_id": "1969138",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uc744}",
+    "person_id": "19561115",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uc744}",
+    "person_id": "1965196",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uc744}",
+    "person_id": "1969139",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uc744}",
+    "person_id": "19601151",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3c9\ud0dd\uc2dc,\uc744}",
+    "person_id": "1961214",
+    "district_ids": "{31,31070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc591\uc8fc\uc2dc,\ub3d9\ub450\ucc9c\uc2dc}",
+    "person_id": "19611111",
+    "district_ids": "{31,31260,31080}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc591\uc8fc\uc2dc,\ub3d9\ub450\ucc9c\uc2dc}",
+    "person_id": "198013",
+    "district_ids": "{31,31260,31080}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\uc0c1\ub85d\uad6c,\uac11}",
+    "person_id": "198022",
+    "district_ids": "{31,31090,31091,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uac11}",
+    "person_id": "1964179",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uac11}",
+    "person_id": "1965197",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uac11}",
+    "person_id": "19581120",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uac11}",
+    "person_id": "19581121",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uc744}",
+    "person_id": "19561116",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc0b0\uc2dc,\ub2e8\uc6d0\uad6c,\uc744}",
+    "person_id": "19601152",
+    "district_ids": "{31,31090,31092,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uac11}",
+    "person_id": "19621105",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uc744}",
+    "person_id": "1964180",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uc744}",
+    "person_id": "1950192",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\ub355\uc591\uad6c,\uc744}",
+    "person_id": "1971215",
+    "district_ids": "{31,31100,31101,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\ub3d9}",
+    "person_id": "19521130",
+    "district_ids": "{31,31100,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\ub3d9}",
+    "person_id": "19631104",
+    "district_ids": "{31,31100,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\uc11c\uad6c}",
+    "person_id": "19511103",
+    "district_ids": "{31,31100,31104}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\uc11c\uad6c}",
+    "person_id": "19461130",
+    "district_ids": "{31,31100,31104}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uace0\uc591\uc2dc,\uc77c\uc0b0\uc11c\uad6c}",
+    "person_id": "19571134",
+    "district_ids": "{31,31100,31104}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc655\uc2dc,\uacfc\ucc9c\uc2dc}",
+    "person_id": "19611112",
+    "district_ids": "{31,31170,31110}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc758\uc655\uc2dc,\uacfc\ucc9c\uc2dc}",
+    "person_id": "1967147",
+    "district_ids": "{31,31170,31110}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad6c\ub9ac\uc2dc}",
+    "person_id": "19581122",
+    "district_ids": "{31,31120}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uac11}",
+    "person_id": "19591120",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uac11}",
+    "person_id": "1964181",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uc744}",
+    "person_id": "19581123",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ub0a8\uc591\uc8fc\uc2dc,\uc744}",
+    "person_id": "19591121",
+    "district_ids": "{31,31130,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc624\uc0b0\uc2dc}",
+    "person_id": "19561119",
+    "district_ids": "{31,31140}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uac11}",
+    "person_id": "19491114",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uac11}",
+    "person_id": "1967148",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uac11}",
+    "person_id": "19471119",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uac11}",
+    "person_id": "19591122",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uc744}",
+    "person_id": "19521131",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud654\uc131\uc2dc,\uc744}",
+    "person_id": "19571135",
+    "district_ids": "{31,31240,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uac11}",
+    "person_id": "19631106",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uac11}",
+    "person_id": "1971145",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc2dc\ud765\uc2dc,\uc744}",
+    "person_id": "19581124",
+    "district_ids": "{31,31150,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad70\ud3ec\uc2dc}",
+    "person_id": "19521132",
+    "district_ids": "{31,31160}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud558\ub0a8\uc2dc}",
+    "person_id": "19621107",
+    "district_ids": "{31,31180}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud30c\uc8fc\uc2dc,\uac11}",
+    "person_id": "19551131",
+    "district_ids": "{31,31200,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\uac11}",
+    "person_id": "1960215",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\uc744}",
+    "person_id": "19581125",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\uc744}",
+    "person_id": "1966166",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc6a9\uc778\uc2dc,\ubcd1}",
+    "person_id": "19481128",
+    "district_ids": "{31,31190,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc131\uc2dc}",
+    "person_id": "1972110",
+    "district_ids": "{31,31220}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc548\uc131\uc2dc}",
+    "person_id": "198711",
+    "district_ids": "{31,31220}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uae40\ud3ec\uc2dc}",
+    "person_id": "19561120",
+    "district_ids": "{31,31230}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uc8fc\uc2dc}",
+    "person_id": "19491116",
+    "district_ids": "{31,31250}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uad11\uc8fc\uc2dc}",
+    "person_id": "1964182",
+    "district_ids": "{31,31250}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\ud3ec\ucc9c\uc2dc,\uc5f0\ucc9c\uad70}",
+    "person_id": "19601156",
+    "district_ids": "{31,31270,31350}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc774\ucc9c\uc2dc}",
+    "person_id": "19631108",
+    "district_ids": "{31,31210}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uc5ec\uc8fc\uad70,\uc591\ud3c9\uad70,\uac00\ud3c9\uad70}",
+    "person_id": "19611114",
+    "district_ids": "{31,31320,31380,31370}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ucd98\ucc9c\uc2dc}",
+    "person_id": "1964183",
+    "district_ids": "{32,32010}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ucd98\ucc9c\uc2dc}",
+    "person_id": "19611115",
+    "district_ids": "{32,32010}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc6d0\uc8fc\uc2dc,\uac11}",
+    "person_id": "19521133",
+    "district_ids": "{32,32020,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc6d0\uc8fc\uc2dc,\uac11}",
+    "person_id": "1964212",
+    "district_ids": "{32,32020,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc6d0\uc8fc\uc2dc,\uac11}",
+    "person_id": "1967150",
+    "district_ids": "{32,32020,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc6d0\uc8fc\uc2dc,\uc744}",
+    "person_id": "19531115",
+    "district_ids": "{32,32020,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc6d0\uc8fc\uc2dc,\uc744}",
+    "person_id": "19631109",
+    "district_ids": "{32,32020,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc6d0\uc8fc\uc2dc,\uc744}",
+    "person_id": "19611116",
+    "district_ids": "{32,32020,NULL}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uac15\ub989\uc2dc}",
+    "person_id": "19601157",
+    "district_ids": "{32,32030}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uac15\ub989\uc2dc}",
+    "person_id": "19611117",
+    "district_ids": "{32,32030}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ub3d9\ud574\uc2dc,\uc0bc\ucc99\uc2dc}",
+    "person_id": "19591126",
+    "district_ids": "{32,32040,32070}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ub3d9\ud574\uc2dc,\uc0bc\ucc99\uc2dc}",
+    "person_id": "19571138",
+    "district_ids": "{32,32040,32070}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ub3d9\ud574\uc2dc,\uc0bc\ucc99\uc2dc}",
+    "person_id": "1971146",
+    "district_ids": "{32,32040,32070}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ub3d9\ud574\uc2dc,\uc0bc\ucc99\uc2dc}",
+    "person_id": "19611118",
+    "district_ids": "{32,32040,32070}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc18d\ucd08\uc2dc,\uace0\uc131\uad70,\uc591\uc591\uad70}",
+    "person_id": "19531116",
+    "district_ids": "{32,32060,32400,32410}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\uc18d\ucd08\uc2dc,\uace0\uc131\uad70,\uc591\uc591\uad70}",
+    "person_id": "19521134",
+    "district_ids": "{32,32060,32400,32410}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ud0dc\ubc31\uc2dc,\uc601\uc6d4\uad70,\ud3c9\ucc3d\uad70,\uc815\uc120\uad70}",
+    "person_id": "19441130",
+    "district_ids": "{32,32050,32330,32340,32350}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ucca0\uc6d0\uad70,\ud654\ucc9c\uad70,\uc591\uad6c\uad70,\uc778\uc81c\uad70}",
+    "person_id": "19521135",
+    "district_ids": "{32,32360,32370,32380,32390}"
+  },
+  {
+    "district": "{\uac15\uc6d0\ub3c4,\ucca0\uc6d0\uad70,\ud654\ucc9c\uad70,\uc591\uad6c\uad70,\uc778\uc81c\uad70}",
+    "person_id": "1964184",
+    "district_ids": "{32,32360,32370,32380,32390}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\uc0c1\ub2f9\uad6c}",
+    "person_id": "1950194",
+    "district_ids": "{33,33010,33011}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uac11}",
+    "person_id": "1970126",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc8fc\uc2dc,\ud765\ub355\uad6c,\uc744}",
+    "person_id": "1964185",
+    "district_ids": "{33,33010,33012,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\ucda9\uc8fc\uc2dc}",
+    "person_id": "197913",
+    "district_ids": "{33,33020}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uc81c\ucc9c\uc2dc,\ub2e8\uc591\uad70}",
+    "person_id": "19611120",
+    "district_ids": "{33,33030,33380}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uc81c\ucc9c\uc2dc,\ub2e8\uc591\uad70}",
+    "person_id": "1950195",
+    "district_ids": "{33,33030,33380}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc6d0\uad70}",
+    "person_id": "19551132",
+    "district_ids": "{33,33310}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uccad\uc6d0\uad70}",
+    "person_id": "19601158",
+    "district_ids": "{33,33310}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\ubcf4\uc740\uad70,\uc625\ucc9c\uad70,\uc601\ub3d9\uad70}",
+    "person_id": "19531118",
+    "district_ids": "{33,33320,33330,33340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\ubcf4\uc740\uad70,\uc625\ucc9c\uad70,\uc601\ub3d9\uad70}",
+    "person_id": "19631111",
+    "district_ids": "{33,33320,33330,33340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\ubcf4\uc740\uad70,\uc625\ucc9c\uad70,\uc601\ub3d9\uad70}",
+    "person_id": "1966168",
+    "district_ids": "{33,33320,33330,33340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ubd81\ub3c4,\uc99d\ud3c9\uad70,\uc9c4\ucc9c\uad70,\uad34\uc0b0\uad70,\uc74c\uc131\uad70}",
+    "person_id": "19581127",
+    "district_ids": "{33,33390,33350,33360,33370}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ucc9c\uc548\uc2dc,\uac11}",
+    "person_id": "19561122",
+    "district_ids": "{34,34010,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uacf5\uc8fc\uc2dc}",
+    "person_id": "1964186",
+    "district_ids": "{34,34020}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uacf5\uc8fc\uc2dc}",
+    "person_id": "1964187",
+    "district_ids": "{34,34020}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubcf4\ub839\uc2dc,\uc11c\ucc9c\uad70}",
+    "person_id": "19571141",
+    "district_ids": "{34,34030,34340}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc544\uc0b0\uc2dc}",
+    "person_id": "19611121",
+    "district_ids": "{34,34040}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc544\uc0b0\uc2dc}",
+    "person_id": "1956214",
+    "district_ids": "{34,34040}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc544\uc0b0\uc2dc}",
+    "person_id": "19611122",
+    "district_ids": "{34,34040}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc11c\uc0b0\uc2dc,\ud0dc\uc548\uad70}",
+    "person_id": "19511105",
+    "district_ids": "{34,34050,34380}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uc11c\uc0b0\uc2dc,\ud0dc\uc548\uad70}",
+    "person_id": "1966169",
+    "district_ids": "{34,34050,34380}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub17c\uc0b0\uc2dc,\uacc4\ub8e1\uc2dc,\uae08\uc0b0\uad70}",
+    "person_id": "19581128",
+    "district_ids": "{34,34060,34070,34310}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub17c\uc0b0\uc2dc,\uacc4\ub8e1\uc2dc,\uae08\uc0b0\uad70}",
+    "person_id": "1964188",
+    "district_ids": "{34,34060,34070,34310}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "19521136",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "1964189",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "19631113",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "198413",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ud64d\uc131\uad70,\uc608\uc0b0\uad70}",
+    "person_id": "19581129",
+    "district_ids": "{34,34360,34370}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "19581130",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "19631114",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "19591128",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "19471121",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "1964190",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "1970127",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ub2f9\uc9c4\uc2dc}",
+    "person_id": "1970128",
+    "district_ids": "{34,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uac11}",
+    "person_id": "19561123",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uac11}",
+    "person_id": "1966170",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uac11}",
+    "person_id": "19411165",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uc744}",
+    "person_id": "19541117",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\uc644\uc0b0\uad6c,\uc744}",
+    "person_id": "19631115",
+    "district_ids": "{35,35010,35011,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\ub355\uc9c4\uad6c}",
+    "person_id": "1964191",
+    "district_ids": "{35,35010,35012}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\ub355\uc9c4\uad6c}",
+    "person_id": "19561125",
+    "district_ids": "{35,35010,35012}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\ub355\uc9c4\uad6c}",
+    "person_id": "1964192",
+    "district_ids": "{35,35010,35012}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc804\uc8fc\uc2dc,\ub355\uc9c4\uad6c}",
+    "person_id": "198314",
+    "district_ids": "{35,35010,35012}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uad70\uc0b0\uc2dc}",
+    "person_id": "196916",
+    "district_ids": "{35,35020}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uad70\uc0b0\uc2dc}",
+    "person_id": "197319",
+    "district_ids": "{35,35020}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uad70\uc0b0\uc2dc}",
+    "person_id": "1968143",
+    "district_ids": "{35,35020}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uad70\uc0b0\uc2dc}",
+    "person_id": "19611123",
+    "district_ids": "{35,35020}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uc744}",
+    "person_id": "19521137",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uc744}",
+    "person_id": "1960216",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc775\uc0b0\uc2dc,\uc744}",
+    "person_id": "1972111",
+    "district_ids": "{35,35030,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc815\uc74d\uc2dc}",
+    "person_id": "19541118",
+    "district_ids": "{35,35040}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc815\uc74d\uc2dc}",
+    "person_id": "19591129",
+    "district_ids": "{35,35040}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc815\uc74d\uc2dc}",
+    "person_id": "1964193",
+    "district_ids": "{35,35040}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1951210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\ub0a8\uc6d0\uc2dc,\uc21c\ucc3d\uad70}",
+    "person_id": "19571142",
+    "district_ids": "{35,35050,35360}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\ub0a8\uc6d0\uc2dc,\uc21c\ucc3d\uad70}",
+    "person_id": "1945198",
+    "district_ids": "{35,35050,35360}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uae40\uc81c\uc2dc,\uc644\uc8fc\uad70}",
+    "person_id": "19431137",
+    "district_ids": "{35,35060,35310}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc9c4\uc548\uad70,\ubb34\uc8fc\uad70,\uc7a5\uc218\uad70,\uc784\uc2e4\uad70}",
+    "person_id": "1964194",
+    "district_ids": "{35,35320,35330,35340,35350}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc9c4\uc548\uad70,\ubb34\uc8fc\uad70,\uc7a5\uc218\uad70,\uc784\uc2e4\uad70}",
+    "person_id": "19591130",
+    "district_ids": "{35,35320,35330,35340,35350}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uc9c4\uc548\uad70,\ubb34\uc8fc\uad70,\uc7a5\uc218\uad70,\uc784\uc2e4\uad70}",
+    "person_id": "19561126",
+    "district_ids": "{35,35320,35330,35340,35350}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uace0\ucc3d\uad70,\ubd80\uc548\uad70}",
+    "person_id": "19561127",
+    "district_ids": "{35,35370,35380}"
+  },
+  {
+    "district": "{\uc804\ub77c\ubd81\ub3c4,\uace0\ucc3d\uad70,\ubd80\uc548\uad70}",
+    "person_id": "19511107",
+    "district_ids": "{35,35370,35380}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ubaa9\ud3ec\uc2dc}",
+    "person_id": "19431138",
+    "district_ids": "{36,36010}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ubaa9\ud3ec\uc2dc}",
+    "person_id": "19611125",
+    "district_ids": "{36,36010}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19561128",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19611126",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19601161",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19551134",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19571144",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uac11}",
+    "person_id": "19631116",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uc744}",
+    "person_id": "19541119",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc5ec\uc218\uc2dc,\uc744}",
+    "person_id": "19651101",
+    "district_ids": "{36,36020,NULL}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc21c\ucc9c\uc2dc,\uace1\uc131\uad70}",
+    "person_id": "19481131",
+    "district_ids": "{36,36030,36320}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc21c\ucc9c\uc2dc,\uace1\uc131\uad70}",
+    "person_id": "1967151",
+    "district_ids": "{36,36030,36320}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ub098\uc8fc\uc2dc,\ud654\uc21c\uad70}",
+    "person_id": "1945199",
+    "district_ids": "{36,36040,36370}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc7a5\ud765\uad70,\uac15\uc9c4\uad70,\uc601\uc554\uad70}",
+    "person_id": "19611127",
+    "district_ids": "{36,36380,36390,36410}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc7a5\ud765\uad70,\uac15\uc9c4\uad70,\uc601\uc554\uad70}",
+    "person_id": "19551136",
+    "district_ids": "{36,36380,36390,36410}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc7a5\ud765\uad70,\uac15\uc9c4\uad70,\uc601\uc554\uad70}",
+    "person_id": "19391187",
+    "district_ids": "{36,36380,36390,36410}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\uc7a5\ud765\uad70,\uac15\uc9c4\uad70,\uc601\uc554\uad70}",
+    "person_id": "19551137",
+    "district_ids": "{36,36380,36390,36410}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ud574\ub0a8\uad70,\uc644\ub3c4\uad70,\uc9c4\ub3c4\uad70}",
+    "person_id": "19461134",
+    "district_ids": "{36,36400,36460,36470}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ud574\ub0a8\uad70,\uc644\ub3c4\uad70,\uc9c4\ub3c4\uad70}",
+    "person_id": "19551139",
+    "district_ids": "{36,36400,36460,36470}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ud574\ub0a8\uad70,\uc644\ub3c4\uad70,\uc9c4\ub3c4\uad70}",
+    "person_id": "1953132",
+    "district_ids": "{36,36400,36460,36470}"
+  },
+  {
+    "district": "{\uc804\ub77c\ub0a8\ub3c4,\ud574\ub0a8\uad70,\uc644\ub3c4\uad70,\uc9c4\ub3c4\uad70}",
+    "person_id": "19531122",
+    "district_ids": "{36,36400,36460,36470}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ubd81\uad6c}",
+    "person_id": "19651102",
+    "district_ids": "{37,37010,37012}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ubd81\uad6c}",
+    "person_id": "19561129",
+    "district_ids": "{37,37010,37012}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ub0a8\uad6c,\uc6b8\ub989\uad70}",
+    "person_id": "1950198",
+    "district_ids": "{37,37010,37011,37430}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\ud3ec\ud56d\uc2dc,\ub0a8\uad6c,\uc6b8\ub989\uad70}",
+    "person_id": "19471123",
+    "district_ids": "{37,37010,37011,37430}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc8fc\uc2dc}",
+    "person_id": "19461135",
+    "district_ids": "{37,37020}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc8fc\uc2dc}",
+    "person_id": "1969141",
+    "district_ids": "{37,37020}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc8fc\uc2dc}",
+    "person_id": "19541120",
+    "district_ids": "{37,37020}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc548\ub3d9\uc2dc}",
+    "person_id": "19591132",
+    "district_ids": "{37,37040}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uac11}",
+    "person_id": "19611128",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uac11}",
+    "person_id": "19561130",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uac11}",
+    "person_id": "19561131",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uac11}",
+    "person_id": "19591133",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uac11}",
+    "person_id": "19461136",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uac11}",
+    "person_id": "19631117",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uc744}",
+    "person_id": "198322",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uc744}",
+    "person_id": "1969142",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uc744}",
+    "person_id": "19581131",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uad6c\ubbf8\uc2dc,\uc744}",
+    "person_id": "19521143",
+    "district_ids": "{37,37050,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc8fc\uc2dc}",
+    "person_id": "19601165",
+    "district_ids": "{37,37060}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc8fc\uc2dc}",
+    "person_id": "19631118",
+    "district_ids": "{37,37060}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc8fc\uc2dc}",
+    "person_id": "1949158",
+    "district_ids": "{37,37060}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\ucc9c\uc2dc}",
+    "person_id": "19551141",
+    "district_ids": "{37,37070}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\ucc9c\uc2dc}",
+    "person_id": "19531124",
+    "district_ids": "{37,37070}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\ucc9c\uc2dc}",
+    "person_id": "19521144",
+    "district_ids": "{37,37070}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc0c1\uc8fc\uc2dc}",
+    "person_id": "19551142",
+    "district_ids": "{37,37080}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc0b0\uc2dc,\uccad\ub3c4\uad70}",
+    "person_id": "19611129",
+    "district_ids": "{37,37100,37360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc0b0\uc2dc,\uccad\ub3c4\uad70}",
+    "person_id": "19581132",
+    "district_ids": "{37,37100,37360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc0b0\uc2dc,\uccad\ub3c4\uad70}",
+    "person_id": "19611130",
+    "district_ids": "{37,37100,37360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uacbd\uc0b0\uc2dc,\uccad\ub3c4\uad70}",
+    "person_id": "1967152",
+    "district_ids": "{37,37100,37360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uace0\ub839\uad70,\uc131\uc8fc\uad70,\uce60\uace1\uad70}",
+    "person_id": "19571147",
+    "district_ids": "{37,37370,37380,37390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uace0\ub839\uad70,\uc131\uc8fc\uad70,\uce60\uace1\uad70}",
+    "person_id": "1964195",
+    "district_ids": "{37,37370,37380,37390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uace0\ub839\uad70,\uc131\uc8fc\uad70,\uce60\uace1\uad70}",
+    "person_id": "194829",
+    "district_ids": "{37,37370,37380,37390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc591\uad70,\uc601\ub355\uad70,\ubd09\ud654\uad70,\uc6b8\uc9c4\uad70}",
+    "person_id": "19631119",
+    "district_ids": "{37,37340,37350,37410,37420}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc591\uad70,\uc601\ub355\uad70,\ubd09\ud654\uad70,\uc6b8\uc9c4\uad70}",
+    "person_id": "19571149",
+    "district_ids": "{37,37340,37350,37410,37420}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc601\uc591\uad70,\uc601\ub355\uad70,\ubd09\ud654\uad70,\uc6b8\uc9c4\uad70}",
+    "person_id": "196929",
+    "district_ids": "{37,37340,37350,37410,37420}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19571150",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19521147",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19581133",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19551126",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19631120",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "1964198",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19541122",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19431140",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19511110",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19581134",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ucc3d\uc6d0\uc2dc}",
+    "person_id": "19401141",
+    "district_ids": "{38,38010}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uac11}",
+    "person_id": "19611131",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uac11}",
+    "person_id": "1968145",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uac11}",
+    "person_id": "19481133",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc9c4\uc8fc\uc2dc,\uc744}",
+    "person_id": "19631121",
+    "district_ids": "{38,38030,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ud1b5\uc601\uc2dc,\uace0\uc131\uad70}",
+    "person_id": "19561132",
+    "district_ids": "{38,38050,38340}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ud1b5\uc601\uc2dc,\uace0\uc131\uad70}",
+    "person_id": "1964199",
+    "district_ids": "{38,38050,38340}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ud1b5\uc601\uc2dc,\uace0\uc131\uad70}",
+    "person_id": "19451100",
+    "district_ids": "{38,38050,38340}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0ac\ucc9c\uc2dc,\ub0a8\ud574\uad70,\ud558\ub3d9\uad70}",
+    "person_id": "194013",
+    "district_ids": "{38,38060,38350,38360}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uae40\ud574\uc2dc,\uac11}",
+    "person_id": "19611133",
+    "district_ids": "{38,38070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uae40\ud574\uc2dc,\uac11}",
+    "person_id": "19511111",
+    "district_ids": "{38,38070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uae40\ud574\uc2dc,\uc744}",
+    "person_id": "19621110",
+    "district_ids": "{38,38070,NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19421170",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uae40\ud574\uc2dc,\uc744}",
+    "person_id": "1967153",
+    "district_ids": "{38,38070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ubc00\uc591\uc2dc,\ucc3d\ub155\uad70}",
+    "person_id": "19591134",
+    "district_ids": "{38,38080,38330}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\ubc00\uc591\uc2dc,\ucc3d\ub155\uad70}",
+    "person_id": "19581135",
+    "district_ids": "{38,38080,38330}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uac70\uc81c\uc2dc}",
+    "person_id": "19601170",
+    "district_ids": "{38,38090}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uac70\uc81c\uc2dc}",
+    "person_id": "1968146",
+    "district_ids": "{38,38090}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc591\uc0b0\uc2dc}",
+    "person_id": "19641100",
+    "district_ids": "{38,38100}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc758\ub839\uad70,\ud568\uc548\uad70,\ud569\ucc9c\uad70}",
+    "person_id": "19451101",
+    "district_ids": "{38,38310,38320,38400}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc758\ub839\uad70,\ud568\uc548\uad70,\ud569\ucc9c\uad70}",
+    "person_id": "19621111",
+    "district_ids": "{38,38310,38320,38400}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "19641101",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "19631123",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "19581136",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ub0a8\ub3c4,\uc0b0\uccad\uad70,\ud568\uc591\uad70,\uac70\ucc3d\uad70}",
+    "person_id": "19591135",
+    "district_ids": "{38,38370,38380,38390}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uac11}",
+    "person_id": "19641102",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uac11}",
+    "person_id": "19611134",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uc744}",
+    "person_id": "1954214",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc81c\uc8fc\uc2dc,\uc744}",
+    "person_id": "19631124",
+    "district_ids": "{39,39010,NULL}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc11c\uadc0\ud3ec\uc2dc}",
+    "person_id": "19521150",
+    "district_ids": "{39,39020}"
+  },
+  {
+    "district": "{\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4,\uc11c\uadc0\ud3ec\uc2dc}",
+    "person_id": "19651106",
+    "district_ids": "{39,39020}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1959210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19511112",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1956216",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19591136",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1964213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19461137",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1964214",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19611135",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1954215",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19501100",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19591137",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966217",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19561133",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197728",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19421169",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195028",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19471124",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1969210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19591138",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1959211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1973110",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195129",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197515",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1954216",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19611136",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1949210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19431141",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1967213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19641103",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1956217",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19651107",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1969211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19501101",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1969212",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19531125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1968212",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19501102",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195829",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198113",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "196529",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1957139",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197729",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966174",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19551145",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1965210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1967154",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1960217",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19551146",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1968213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1962210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1967155",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "196329",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19601171",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198323",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198315",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1962211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19631125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1971216",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19581137",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966218",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621113",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1968148",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19601173",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1961215",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1963210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19551148",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1955211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491122",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966219",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19611137",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621114",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19591140",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19601174",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1959212",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1962125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19571151",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1963211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1970129",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197429",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1962212",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621116",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1965212",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1965213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1970130",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19511113",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1955212",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621117",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1977210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1971147",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19601175",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198324",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19521152",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1948210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19641104",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491123",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1956218",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1971148",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19371137",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19601176",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491124",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19471125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19451102",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966175",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1970131",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1954217",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1960218",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19651108",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621118",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "195229",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19501105",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "194429",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491125",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1952210",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19621119",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197526",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19531126",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197327",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19521153",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19401142",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19461138",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19531127",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198414",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19581138",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19541126",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19571152",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19461139",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1954218",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1966176",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1967214",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1955213",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19471128",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1971217",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1969143",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1954219",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1973111",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197924",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197527",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "197516",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "1974211",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "198512",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19491128",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\ube44\ub840\ub300\ud45c}",
+    "person_id": "19421171",
+    "district_ids": "{NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uad11\uc0b0\uad6c,\uac11}",
+    "person_id": "1966162",
+    "district_ids": "{24,24050,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uad11\uc0b0\uad6c,\uac11}",
+    "person_id": "19491109",
+    "district_ids": "{24,24050,NULL}"
+  },
+  {
+    "district": "{\uad11\uc8fc\uad11\uc5ed\uc2dc,\uad11\uc0b0\uad6c,\uc744}",
+    "person_id": "1967212",
+    "district_ids": "{24,24050,NULL}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "1965187",
+    "district_ids": "{25,25010}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\ub3d9\uad6c}",
+    "person_id": "1965188",
+    "district_ids": "{25,25010}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "1963198",
+    "district_ids": "{25,25020}"
+  },
+  {
+    "district": "{\ub300\uc804\uad11\uc5ed\uc2dc,\uc911\uad6c}",
+    "person_id": "19611108",
+    "district_ids": "{25,25020}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\ubd80\uc5ec\uad70,\uccad\uc591\uad70}",
+    "person_id": "1953217",
+    "district_ids": "{34,34330,34350}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc0c1\uc8fc\uc2dc}",
+    "person_id": "19491120",
+    "district_ids": "{37,37080}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc0c1\uc8fc\uc2dc}",
+    "person_id": "19651103",
+    "district_ids": "{37,37080}"
+  },
+  {
+    "district": "{\uacbd\uc0c1\ubd81\ub3c4,\uc0c1\uc8fc\uc2dc}",
+    "person_id": "19541121",
+    "district_ids": "{37,37080}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ubd80\uc0b0\uc9c4\uad6c,\uc744}",
+    "person_id": "1945159",
+    "district_ids": "{21,21050,NULL}"
+  },
+  {
+    "district": "{\ubd80\uc0b0\uad11\uc5ed\uc2dc,\ub0a8\uad6c,\uc744}",
+    "person_id": "1939119",
+    "district_ids": "{21,21070,NULL}"
+  },
+  {
+    "district": "{\uacbd\uae30\ub3c4,\uae40\ud3ec\uc2dc}",
+    "person_id": "1930151",
+    "district_ids": "{31,31230}"
+  },
+  {
+    "district": "{\ucda9\uccad\ub0a8\ub3c4,\uacf5\uc8fc\uc2dc}",
+    "person_id": "19451107",
+    "district_ids": "{34,34020}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc911\ub791\uad6c,\uc744}",
+    "person_id": "19411161",
+    "district_ids": "{11,11070,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uc1a1\ud30c\uad6c,\ubcd1}",
+    "person_id": "19431101",
+    "district_ids": "{11,11240,NULL}"
+  },
+  {
+    "district": "{\uc11c\uc6b8\ud2b9\ubcc4\uc2dc,\uad00\uc545\uad6c,\uac11}",
+    "person_id": "19421161",
+    "district_ids": "{11,11210,NULL}"
+  }
+]

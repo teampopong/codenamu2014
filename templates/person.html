@@ -1,3 +1,5 @@
+{% set memberid = request.path.split('/')[-1] %}
+
 <!DOCTYPE HTML>
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -8,11 +10,10 @@
   <div id="wrapper">
     <div id="content-left">
       <div class="profile">
-        <a href="http://pokr.kr/person/{{data.id}}"><img class="profile-image" src="{{data.image}}"></a>
+        <a href="http://pokr.kr/person/{{memberid}}"><img class="profile-image" src="{{data.image}}"></a>
         <h1 class="profile-name">{{data.name}}</h1>
         <p class="profile-party">{{data.party}}</p>
         <h3 class="profile-birthday"></h3>
-        <button class="profile-more">더보기</button>
       </div>
       <div class="position">
         <h5 class="sub-title">기반 위치</h5>
