@@ -33,15 +33,15 @@ def home():
 
 @app.route("/<member_id>")
 def member(member_id):
-	f = open('members.json', 'r')
-	datas = json.load(f)
-	data = datas[member_id]
-	data['yea'] = len([v for v in data['votes'] if v['option'] == 'yea'])
-	data['nay'] = len([v for v in data['votes'] if v['option'] == 'nay'])
-	data['forfeit'] = len([v for v in data['votes'] if v['option'] == 'forfeit'])
-	data['attend'] = len([a for a in data['attendance'] if a['attendance']])
-	data['attend_grade'] = calc_attend_grade(data)
-	return render_template('person.html',data=data)
+    f = open('members.json', 'r')
+    datas = json.load(f)
+    data = datas[member_id]
+    data['yea'] = len([v for v in data['votes'] if v['option'] == 'yea'])
+    data['nay'] = len([v for v in data['votes'] if v['option'] == 'nay'])
+    data['forfeit'] = len([v for v in data['votes'] if v['option'] == 'forfeit'])
+    data['attend'] = len([a for a in data['attendance'] if a['attendance']])
+    data['attend_grade'] = calc_attend_grade(data)
+    return render_template('person.html',data=data)
 
 if __name__ == "__main__":
-	app.run(debug=True)
+    app.run(debug=True)
