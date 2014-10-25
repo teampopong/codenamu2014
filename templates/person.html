@@ -25,7 +25,7 @@
         <span class="sub-content">
           <ul class="attendance-list">
             {% for item in data.attendance %}
-            <li class="attendance-item {% if item.attendance %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%"></li>
+            <li class="attendance-item {% if item.attendance %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%" title="{{ item.meeting_title }}"><a href="http://pokr.kr/meeting/{{ item.meeting_id }}" class="attendance-link"></a></li>
             {% endfor %}
         </span>
       </div>
