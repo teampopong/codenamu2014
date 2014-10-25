@@ -9,6 +9,10 @@ import json
 
 app = Flask(__name__)
 
+datas = None
+with open('members.json', 'r') as f:
+	datas = json.load(f)
+
 from utils import get_names
 
 def calc_attend_grade(data):
@@ -31,10 +35,12 @@ def calc_attend_grade(data):
 def home():
     return render_template('home.html', id_names=get_names())
 
-@app.route("/<member_num>")
+@app.route("/map")
+def map():
+    return render_template('map.html')
+
+@app.route("/<int:member_num>")
 def member(member_num):
-	f = open('members.json', 'r')
-	datas = json.load(f)
 	data = datas[int(member_num)]
 	data['yea'] = len([v for v in data['votes'] if v['option'] == 'yea'])
 	data['nay'] = len([v for v in data['votes'] if v['option'] == 'nay'])

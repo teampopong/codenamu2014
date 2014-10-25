@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="static/css/home.css">
+        <link rel="stylesheet" type="text/css" href="static/css/map.css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="content-left">
+                {% with width = 300 %}
+                {% include "korea.svg" with context %}
+                {% endwith %}
+            </div>
+            <div id="content-right">
+            </div>
+        </div>
+    </body>
+</html>

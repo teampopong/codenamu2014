@@ -1,28 +1,28 @@
 <!DOCTYPE HTML>
 <html>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<head>
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/earlyaccess/hanna.css">
-  
-  <link rel="stylesheet" type="text/css" href="/static/css/person.css" />
-  <link rel="stylesheet" type="text/css" href="/static/css/home.css" />
-</head>
-<body>
-<div id="wrapper">
-  <div id="content-left">
-    <div id="home">
-    <center>
-      <h1 class="hanna">국회 생활 통지표</h3>
-      <p class="gray">내가 뽑은 우리 국회의원,<br>국회에서 잘하고 있을까?</p>
-      <select class="select">
-        {% for id, name in id_names %}
-        <option name="member_num" value="{{ id }}">{{ name }}</option>
-        {% endfor %}
-      </select>
-      <img id="logo" src="{{ url_for('static', filename='img/good.jpg') }}">
-    </center>
-    </div>
-  </div>
-</div>
-</body>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="static/css/home.css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="content-left">
+                <img class="content-image" src="static/img/img_assembly.jpg">
+                <h1 class="content-title">
+                    국회생활기록부
+                </h1>
+                <h2 class="content-subtitle">
+                    당신이 선택한 의원, 지금 무엇을 하고 있습니까?
+                </h2>
+                <a class="content-link" href="{{ url_for('map') }}">
+                    살펴보기
+                </a>
+            </div>
+            <div id="content-right">
+                <a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=main.html" target="_blank">Facebook</a>
+                <a class="share-twitter" href="https://twitter.com/share" class="twitter-share-button">Twitter</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </div>
+        </div>
+    </body>
 </html>

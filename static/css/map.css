@@ -1,0 +1,23 @@
+.map {
+    display: block;
+    vertical-align: top;
+    margin: 0 auto;
+}
+
+.map text {
+    font-size: 4pt;
+    pointer-events: none;
+}
+
+.map path {
+    fill: white;
+    stroke: #555;
+}
+
+.map.clickable .region {
+    cursor: pointer;
+}
+
+.map.clickable .region:hover { 
+    fill: #ccc;
+}
