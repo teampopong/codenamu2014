@@ -69,6 +69,12 @@ html, body{
     font-weight: 700;
     color: #303030;
 }
+.profile-party{
+    color: #999;
+    font-size: 90%;
+    margin-top: 3px;
+    text-align: center;
+}
 .profile-birthday{
     width: 100%;
     text-align: center;
