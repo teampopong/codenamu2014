@@ -326,3 +326,13 @@ html, body{
 .inline{
     display: inline-block;
 }
+.attendance-link{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: none;
+}
+.attendance-link:hover{
+    background: orange;
+    border-radius: 4px;
+}
