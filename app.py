@@ -11,6 +11,22 @@ app = Flask(__name__)
 
 from utils import get_names
 
+def calc_attend_grade(data):
+    rate = data['attend']/float(len(data['attendance']))
+    if 0.95 < rate:
+        return 'A+'
+    elif 0.90 < rate:
+        return 'A'
+    elif 0.85 < rate:
+        return 'B'
+    elif 0.80 < rate:
+        return 'C'
+    elif 0.75 < rate:
+        return 'D'
+    elif 0.70 < rate:
+        return 'F'
+
+
 @app.route("/")
 def home():
     return render_template('home.html', id_names=get_names())
@@ -24,6 +40,7 @@ def member(member_num):
 	data['nay'] = len([vote for vote in data['votes'] if vote['option'] == 'nay'])
 	data['forfeit'] = len([vote for vote in data['votes'] if vote['option'] == 'forfeit'])
 	data['attend'] = len([attend for attend in data['attendance'] if attend])
+	data['attend_grade'] = calc_attend_grade(data)
 	data['absent'] = len([attend for attend in data['attendance'] if not attend])
 	return render_template('person.html',data=data)
 
