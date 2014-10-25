@@ -23,7 +23,7 @@
         <span class="sub-content">
           <ul class="attendance-list">
             {% for item in data.attendance %}
-            <li class="attendance-item {% if item %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%"></li>
+            <li class="attendance-item {% if item.attendance %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%"></li>
             {% endfor %}
         </span>
       </div>

@@ -36,12 +36,11 @@ def member(member_num):
 	f = open('members.json', 'r')
 	datas = json.load(f)
 	data = datas[int(member_num)]
-	data['yea'] = len([vote for vote in data['votes'] if vote['option'] == 'yea'])
-	data['nay'] = len([vote for vote in data['votes'] if vote['option'] == 'nay'])
-	data['forfeit'] = len([vote for vote in data['votes'] if vote['option'] == 'forfeit'])
-	data['attend'] = len([attend for attend in data['attendance'] if attend])
+	data['yea'] = len([v for v in data['votes'] if v['option'] == 'yea'])
+	data['nay'] = len([v for v in data['votes'] if v['option'] == 'nay'])
+	data['forfeit'] = len([v for v in data['votes'] if v['option'] == 'forfeit'])
+	data['attend'] = len([a for a in data['attendance'] if a['attendance']])
 	data['attend_grade'] = calc_attend_grade(data)
-	data['absent'] = len([attend for attend in data['attendance'] if not attend])
 	return render_template('person.html',data=data)
 
 if __name__ == "__main__":
