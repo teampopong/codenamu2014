@@ -20,18 +20,10 @@
                 <div class="attendance">
                     <h5 class="sub-title">출석 현황</h5>
                     <span class="sub-content">
-                        <ul class="attendance-list">
-							<li class="attendance-item {% if data.attendance[0] %}attend{% else %}absent{% endif %}">2012-08-29</li>
-                            <li class="attendance-item {% if data.attendance[1] %}attend{% else %}absent{% endif %}">2014-08-30</li>
-                            <li class="attendance-item {% if data.attendance[2] %}attend{% else %}absent{% endif %}">2014-09-02</li>
-                            <li class="attendance-item {% if data.attendance[3] %}attend{% else %}absent{% endif %}">2014-09-04</li>
-                            <li class="attendance-item {% if data.attendance[4] %}attend{% else %}absent{% endif %}">2014-09-10</li>
-                            <li class="attendance-item {% if data.attendance[5] %}attend{% else %}absent{% endif %}">2014-09-12</li>
-                            <li class="attendance-item {% if data.attendance[6] %}attend{% else %}absent{% endif %}">2014-09-13</li>
-                            <li class="attendance-item {% if data.attendance[7] %}attend{% else %}absent{% endif %}">2014-10-30</li>
-                            <li class="attendance-item {% if data.attendance[8] %}attend{% else %}absent{% endif %}">2014-10-31</li>
-                            <li class="attendance-item {% if data.attendance[9] %}attend{% else %}absent{% endif %}">2014-11-01</li>
-                        </ul>
+						<ul class="attendance-list">
+							{% for item in data.attendance %}
+							<li class="attendance-item {% if item %}attend{% else %}absent{% endif %}" style="width:{{ 100/(data.attendance|length) }}%"></li>
+							{% endfor %}
                     </span>
                 </div>
                 <div class="vote">
@@ -39,15 +31,15 @@
                     <span class="sub-content">
                         <ul class="vote-list">
                             <li class="vote-item vote-agree">
-                                <h5>20</h5>
+								<h5>{{data['yea']}}</h5>
                                 <span>찬성</span>
                             </li>
                             <li class="vote-item vote-disagree">
-                                <h5>30</h5>
+                                <h5>{{data['nay']}}</h5>
                                 <span>반대</span>
                             </li>
                             <li class="vote-item vote-forfeit">
-                                <h5>2</h5>
+                                <h5>{{data['forfeit']}}</h5>
                                 <span>무효</span>
                             </li>
                         </ul>
@@ -57,14 +49,12 @@
                     <h5 class="sub-title">공약</h5>
                     <span class="sub-content">
                         <ul class="idea-list">
-                            <li class="idea-item">
-                                <h5>내용이 여기 들어옵니다.</h5>
+							{% for pledge in data['pledges'] %}
+							<li class="idea-item">
+								<h5>{{pledge}}</h5>
                                 <span>70%</span>
                             </li>
-                            <li class="idea-item">
-                                <h5>내용이 여기 들어옵니다.</h5>
-                                <span>70%</span>
-                            </li>
+							{% endfor %}
                         </ul>
                     </span>
                 </div>
@@ -76,11 +66,11 @@
                 <div class="score">
                     <div class="score-attendance">
                         <h2 class="score-attendance-title">출석률 점수</h2>
-                        <span class="score-attendance-content">20 / 30</span>
+						<span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
                     </div>
                     <div class="score-vote">
                         <h2 class="score-vote-title">투표율 점수</h2>
-                        <span class="score-vote-content">20 / 30</span>
+						<span class="score-vote-content">{{data.votes | length}} / {{data.votes | length}}</span>
                     </div>
                 </div>
                 <h1 class="content-right-final">A++</h1>
