@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 
 from flask import Flask, render_template
@@ -14,10 +13,10 @@ from home import get_names
 
 @app.route("/")
 def home():
-    return render_template('home.html', id_names=get_names()[:10])
+    return render_template('home.html', id_names=get_names())
 
 @app.route("/<member_num>")
-def hello(member_num):
+def member(member_num):
 	f = open('19th members.json', 'r')
 	datas = json.load(f)
 	data = datas[int(member_num)]

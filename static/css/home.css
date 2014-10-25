@@ -1,5 +1,13 @@
-.good {
+h1 {
+    padding: 20px;
+}
+
+#logo {
     width: 100%;
+}
+
+.center {
+    text-align: center;
 }
 .hanna {
     font-family: 'Hanna', serif;
@@ -8,6 +16,9 @@
     height: 609px;
     padding: 30px;
 }
-.logo {
-    text-align: center;
+.gray {
+    color: #333;
+}
+.select {
+    margin: 30px;
 }
