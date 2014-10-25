@@ -10,11 +10,19 @@ import json
 
 app = Flask(__name__)
 
+from home import get_names
+
 @app.route("/")
 def hello():
 	f = open('19th members.json', 'r')
-	data = json.load(f)
-	return render_template('person.html',data=data[0])
+	datas = json.load(f)
+	data = datas[0]
+	data['yea'] = len([vote for vote in data['votes'] if vote['option'] == 'yea'])
+	data['nay'] = len([vote for vote in data['votes'] if vote['option'] == 'nay'])
+	data['forfeit'] = len([vote for vote in data['votes'] if vote['option'] == 'forfeit'])
+	data['attend'] = len([attend for attend in data['attendance'] if attend])
+	data['absent'] = len([attend for attend in data['attendance'] if not attend])
+	return render_template('person.html',data=data)
 
 if __name__ == "__main__":
 	app.run(debug=True)
