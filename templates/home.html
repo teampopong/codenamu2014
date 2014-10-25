@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <head>
+        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/earlyaccess/hanna.css">
+
+        <link rel="stylesheet" type="text/css" href="/static/css/person.css" />
+        <link rel="stylesheet" type="text/css" href="/static/css/home.css" />
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="content-left">
+                <div class="home">
+                    <h1 class="hanna logo">국회 생활 통지표</h3>
+                    <img class="good" src="{{ url_for('static', filename='img/good.jpg') }}">
+                    <ul>
+                    {% for id, name in id_names %}
+                    <li><a href="{{ id }}">{{ name }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
