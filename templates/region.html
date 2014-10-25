@@ -4,6 +4,37 @@
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename="css/home.css") }}">
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename="static/css/map.css") }}">
+        <style>
+            ul{
+                padding: 16px 12px;
+            }
+            li{
+                padding: 0 8px;
+                background: #efefef;
+                margin: 4px 0;
+                border-radius: 4px;
+                height: 40px;
+            }
+            li>a{
+                color: #3f3f3f;
+                text-decoration: none;
+                font-size: 14px;
+                line-height: 40px;
+            }
+            li:hover{
+                background: #54cfee;
+            }
+            li>a:hover{
+                color: #fff;
+            }
+            .position{
+                float: left;
+            }
+            .name{
+                float: right;
+                font-weight: 700;
+            }
+        </style>
     </head>
     <body>
         <div id="wrapper">
@@ -14,7 +45,7 @@
                 <ul>
                 {% for candidate in candidates %}
                 {% if candidate.person_id in datas %}
-                <li><a href="{{ url_for('member', member_id=candidate.person_id) }}">{{ candidate.district }} {{ datas[candidate.person_id].name }}</a></li>
+                <li><a href="{{ url_for('member', member_id=candidate.person_id) }}"><span class="position">{{ candidate.district }}</span> <span class="name">{{ datas[candidate.person_id].name }}</span></a></li>
                 {% endif %}
                 {% endfor %}
                 </ul>

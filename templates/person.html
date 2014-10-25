@@ -4,7 +4,8 @@
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <head>
-  <link rel="stylesheet" type="text/css" href="/static/css/person.css">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename="css/person.css") }}">
+  <script type="text/javascript" src="{{ url_for('static', filename="js/person.js") }}"></script>
 </head>
 <body>
   <div id="wrapper">
@@ -60,6 +61,12 @@
           </ul>
         </span>
       </div>
+      <div class="law">
+          <h5 class="sub-title">법안</h5>
+          <span class="sub-content">
+              <ul class="law-list"></ul>
+          </span>
+      </div>
     </div>
     <div id="content-right">
       <h1 class="content-right-title">성적 요약
@@ -73,5 +80,9 @@
       </div>
     </div>
   </div>
+        <script type="text/javascript">
+                Law.initialize();
+                Law.drawGraph(Law.dataInput({{ data.laws|safe }}));
+        </script>
 </body>
 </html>

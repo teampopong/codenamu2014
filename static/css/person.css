@@ -14,7 +14,7 @@
 
     -moz-box-sizing: border-box;
 }
-style {
+style, script {
     display: none;
 }
 html, body{
@@ -131,6 +131,9 @@ html, body{
 }
 .idea>.sub-title{
     background: url('../img/icon_idea.png') no-repeat 0 50%;
+}
+.law>.sub-title{
+    background: url('../img/icon_law.png') no-repeat 0 50%;
 }
 .position{
     height: 64px;
@@ -338,4 +341,59 @@ html, body{
 .attendance-link:hover{
     background: orange;
     border-radius: 4px;
+}
+/* LAW GRAPH */
+
+.law{
+    /*padding: 12px;*/
+    display: inline-block;
+    padding-bottom: 16px;
+}
+.law>.sub-title{
+    font-size: 14px;
+    line-height: 20px !important;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+}
+.law>.sub-content{
+    clear: both;
+    padding-top: 8px;
+}
+.law-list{
+    width: 340px;
+    margin: 0 auto;
+}
+.law-item{
+    width: 100%;
+    height: 32px;
+    position: relative;
+    margin-top: 4px;
+}
+.law-item>.law-title{
+    float: left;
+    color: rgba(0,0,0,.6);
+    font-size: 14px;
+    line-height: 32px;
+    padding-left: 8px;
+    position: relative;
+    z-index: 2;
+}
+.law-item>.law-count{
+    float: right;
+    color: rgba(0,0,0,.35);
+    font-size: 12px;
+    line-height: 32px;
+    padding-right: 8px;
+    position: relative;
+    z-index: 2;
+}
+.law-item>.law-bar{
+    position: absolute;
+    height: 32px;
+    border-radius: 4px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background: #54cfee;
 }

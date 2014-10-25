@@ -51,6 +51,7 @@ def map():
 @app.route("/<member_id>")
 def member(member_id):
     data = datas[member_id]
+    data['laws'] = json.dumps(data['sponsored_laws'])
     data['yea'] = len([v for v in data['votes'] if v['option'] == 'yea'])
     data['nay'] = len([v for v in data['votes'] if v['option'] == 'nay'])
     data['forfeit'] = len([v for v in data['votes'] if v['option'] == 'forfeit'])
@@ -64,5 +65,5 @@ def region(region_id):
     return render_template('region.html', candidates=candidates, datas=datas)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
 
