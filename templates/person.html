@@ -8,8 +8,9 @@
   <div id="wrapper">
     <div id="content-left">
       <div class="profile">
-        <img class="profile-image" src="{{data.image}}">
+        <a href="http://pokr.kr/person/{{data.id}}"><img class="profile-image" src="{{data.image}}"></a>
         <h1 class="profile-name">{{data.name}}</h1>
+        <p class="profile-party">{{data.party}}</p>
         <h3 class="profile-birthday"></h3>
         <button class="profile-more">더보기</button>
       </div>
@@ -18,8 +19,8 @@
         <span class="sub-content"></span>
       </div>
       <div class="attendance">
-        <h5 class="sub-title">본회의 출석 현황</h5>
-        <span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
+        <h5 class="sub-title inline">본회의 출석 현황</h5>
+        <span id="attendance-score" class="score-attendance-content">({{data.attend}} / {{data.attendance | length}})</span>
         <span class="sub-content">
           <ul class="attendance-list">
             {% for item in data.attendance %}
