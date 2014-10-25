@@ -18,8 +18,8 @@
         <span class="sub-content"></span>
       </div>
       <div class="attendance">
-        <h5 class="sub-title">본회의 출석 현황</h5>
-        <span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
+        <h5 class="sub-title inline">본회의 출석 현황</h5>
+        <span id="attendance-score" class="score-attendance-content">({{data.attend}} / {{data.attendance | length}})</span>
         <span class="sub-content">
           <ul class="attendance-list">
             {% for item in data.attendance %}
