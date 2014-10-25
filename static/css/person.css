@@ -1,0 +1,307 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    display: block;
+    box-sizing: border-box;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    /*letter-spacing: -0.01em;*/
+    outline: none;
+
+    /* for better anti-aliasing(font) */
+    text-rendering: optimizingLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+
+    -moz-box-sizing: border-box;
+}
+html, body{
+    padding: 16px 0;
+    background: #445468 url('./bg.png') repeat 0 0;
+}
+#wrapper{
+    width: 500px;
+    margin: 0 auto;
+}
+#content-left{
+    float: left;
+    width: 360px;
+    margin-right: 10px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.4);
+    margin-bottom: 40px;
+}
+#content-left>div{
+    width: 100%;
+    display: inline-block;
+}
+#content-right{
+    float: right;
+    width: 130px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.4);
+}
+.profile{
+    position: relative;
+    background: #f7f7f7;
+    padding: 40px;
+    border-radius: 4px 4px 0 0;
+    border-bottom: 1px solid #efefef;
+}
+.profile-image{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+    margin: 0 auto 12px auto;
+    border: 4px solid #df6d8a;
+}
+.profile-name{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #303030;
+}
+.profile-birthday{
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    color: #6f6f6f;
+    padding-top: 8px;
+}
+.profile-edu{
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    color: #9f9f9f;
+    padding-top: 2px;
+}
+.profile-more{
+    width: 24px;
+    height: 24px;
+    background: transparent url('./btn_more.png') no-repeat 50% 50%;
+    position: absolute;
+    top: 10px;
+    right: 16px;
+    border: none;
+    text-indent: -9999em;
+    cursor: pointer;
+}
+#content-left h5.sub-title{
+    font-size: 14px;
+    line-height: 64px;
+    color: #4f4f4f;
+    font-weight: 400;
+    padding-left: 22px;
+    margin-left: 12px;
+    float: left;
+}
+.position>.sub-title{
+    background: url('./icon_position.png') no-repeat 0 50%;
+}
+.attendance>.sub-title{
+    background: url('./icon_attendance.png') no-repeat 0 50%;
+}
+.vote>.sub-title{
+    background: url('./icon_vote.png') no-repeat 0 50%;
+}
+.idea>.sub-title{
+    background: url('./icon_idea.png') no-repeat 0 50%;
+}
+.position{
+    height: 64px;
+    border-bottom: 1px solid #efefef;
+}
+.position>.sub-content{
+    float: right;
+    line-height: 64px;
+    font-size: 14px;
+    color: #2dc1ff;
+    padding-right: 12px;
+}
+.attendance{
+    /*padding: 12px;*/
+    display: inline-block;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #efefef;
+}
+.attendance>.sub-title{
+    font-size: 14px;
+    line-height: 20px !important;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+}
+.attendance>.sub-content{
+    clear: both;
+    padding-top: 8px;
+}
+.attendance-list{
+    width: 340px;
+    height: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.attendance-item{
+    width: 10%;
+    height: 20px;
+    text-indent: -9999em;
+    display: block;
+    float: left;
+    border-radius: 4px;
+}
+.attendance-item:first-child{
+    border-radius: 20px 8px 8px 20px;
+}
+.attendance-item:last-child{
+    border-radius: 8px 20px 20px 8px;
+}
+.attendance-item.attend{
+    background: #2dc1ff;
+}
+.attendance-item.absent{
+    background: #cbcdcf;
+}
+.vote{
+    display: inline-block;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #efefef;
+}
+.vote>.sub-title{
+    width: 100%;
+    line-height: 20px !important;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+}
+.vote>.sub-content{
+    clear: both;
+    padding-top: 8px;
+}
+.vote-list{
+    width: 340px;
+    height: 60px;
+    margin: 0 auto;
+}
+.vote-item{
+    float: left;
+    width: 110px;
+    height: 60px;
+    margin-right: 5px;
+    border-radius: 4px;
+    text-align: center;
+}
+.vote-item>h5{
+    margin-top: 9px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+.vote-item>span{
+    margin-top: 4px;
+    font-size: 12px;
+    color: rgba(255, 255, 255, .8);
+}
+.vote-item:last-child{
+    margin-right: 0;
+}
+.vote-agree{
+    background: #2dc1ff;
+}
+.vote-disagree{
+    background: #ebc079;
+}
+.vote-forfeit{
+    background: #b789d0;
+}
+.idea{
+    display: inline-block;
+    padding-bottom: 16px;
+}
+.idea>.sub-title{
+    width: 100%;
+    line-height: 20px !important;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+}
+.idea>.sub-content{
+    clear: both;
+    padding-top: 8px;
+}
+.idea-list{
+    width: 340px;
+    margin: 0 auto;
+}
+.idea-item{
+    width: 100%;
+    font-size: 16px;
+    color: #0d0d0d;
+    background: #f4f4f4;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+.idea-item:hover{
+    background: #e2e2e2;
+}
+.idea-item>h5{
+    float: left;
+    font-size: 13px;
+    line-height: 20px;
+    color: #0d0d0d;
+}
+.idea-item>span{
+    float: right;
+    font-size: 14px;
+    line-height: 20px;
+    height: 20px;
+    padding: 0 4px;
+    border-radius: 2px;
+    color: #fff;
+    background: #2dc1ff;
+}
+#content-right{
+    text-align: center;
+}
+.content-right-title{
+    width: 100%;
+    background: #455569;
+    font-size: 16px;
+    color: #fff;
+    padding: 12px;
+    border-radius: 4px 4px 0 0;
+    border-bottom: 1px solid #444458;
+}
+.content-right-title>span{
+    padding-top: 2px;
+    font-size: 8px;
+    color: rgba(255, 255, 255, .7);
+}
+#content-right>div h2{
+    color: #6d6d6d;
+    font-size: 14px;
+    margin-top: 12px;
+}
+#content-right>div span{
+    color: #4d4d4d;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 4px;
+}
+.content-right-final{
+    margin-top: 12px;
+    color: #fff;
+    width: 100%;
+    background: #2dc1ff;
+    height: 64px;
+    font-size: 32px;
+    line-height: 64px;
+    font-weight: 700;
+    border-radius: 0 0 4px 4px;
+    border-top: 1px solid #1eb0ee;
+}
