@@ -18,7 +18,8 @@
 					<span class="sub-content"></span>
                 </div>
                 <div class="attendance">
-                    <h5 class="sub-title">출석 현황</h5>
+                    <h5 class="sub-title">본회의 출석 현황</h5>
+                    <span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
                     <span class="sub-content">
 						<ul class="attendance-list">
 							{% for item in data.attendance %}
@@ -52,7 +53,6 @@
 							{% for pledge in data['pledges'] %}
 							<li class="idea-item">
 								<h5>{{pledge}}</h5>
-                                <span>70%</span>
                             </li>
 							{% endfor %}
                         </ul>
@@ -65,12 +65,8 @@
                 </h1>
                 <div class="score">
                     <div class="score-attendance">
-                        <h2 class="score-attendance-title">출석률 점수</h2>
+                        <h2 class="score-attendance-title">출석 등급</h2>
 						<span class="score-attendance-content">{{data.attend}} / {{data.attendance | length}}</span>
-                    </div>
-                    <div class="score-vote">
-                        <h2 class="score-vote-title">투표율 점수</h2>
-						<span class="score-vote-content">{{data.votes | length}} / {{data.votes | length}}</span>
                     </div>
                 </div>
                 <h1 class="content-right-final">A++</h1>
