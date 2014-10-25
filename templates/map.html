@@ -16,9 +16,11 @@
 var regions = document.getElementsByClassName('region');
 for (var i = 0, len = regions.length; i < len; i++) {
     var region = regions[i];
-    region.onclick = function () {
-        location.href = '/map/' + region.attributes['data-region_id'].value;
-    };
+    region.onclick = (function (url) {
+        return function () {
+            location.href = url;
+        };
+    }('/map/' + region.attributes['data-region_id'].value));
 }
 } (window));
                 </script>
